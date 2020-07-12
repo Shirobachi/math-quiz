@@ -1,0 +1,4635 @@
+﻿835
+b
+1
+1
+wartość wyrażenia (3/4-2/3)/(2/3-1/2) jest równa
+1
+1/2
+1/12
+1/72
+96
+a
+2
+1
+Liczba 3^30*9^90 jest równa
+3^210
+3^300
+9^120
+27^2700
+680
+b
+3
+1
+Liczba 2^20*4^40 jest równa
+2^60
+4^50
+8^60
+8^800
+931
+c
+4
+1
+Iloczyn 81^2*9^4 jest równy
+3^4
+3^0
+3^16
+3^14
+2
+d
+5
+1
+Iloraz 125^5:5^11 jest równy
+5^-6
+5^16
+25^-6
+25^2
+237
+c
+6
+1
+Iloczyn 9^-5*3^8 jest równy
+3^-4
+3^-9
+7^-1
+9^-9
+641
+a
+7
+1
+Liczba 2^40*4^20 jest równa
+4^40
+4^50
+8^60
+8^800
+65
+b
+8
+1
+LiczbÂ© x=2^2*16-4 można zapisać w postaci
+x=2^14
+x=2^-14
+x=32^-2
+x=2^-6
+899
+a
+9
+1
+Dana jest liczba x=63^2*(1/3)^4. Wtedy
+x=7^2
+x=7^-2
+x=3^8*7^2
+x=3*7
+786
+d
+10
+1
+Trzecia cz©ści¥ liczby 3^150 jest równa
+1^50
+1^150
+3^50
+3^149
+402
+a
+11
+1
+Liczba (2^-2*3^-1)/(2^-1*3^-2)^0 jest równa
+1
+4
+9
+36
+341
+a
+12
+1
+Liczba 128^-4:(1/32)^4 jest równa
+4^-4
+2^-4
+2^4
+4^4
+730
+a
+13
+1
+Liczba (27^-1)^1/3*72^0 jest równa
+1/3
+-1/3
+0
+3
+687
+b
+14
+1
+Liczba 7^(4/3)*(7^5)^(1/3) jest równa
+7^4/5
+7^3
+7^20/9
+7^2
+305
+b
+15
+1
+Liczba ((-8)^-1)^(1/3)*16^(3/4) jest równa
+-8
+-4
+2
+4
+97
+c
+16
+1
+Liczba 3^(8/3)*(9^2)^(1/3) jest równa:
+3^3
+3^(32/9)
+3^4
+3^5
+1419
+a
+17
+1
+Liczba 1/2*2^2014 jest równa
+2^2013
+2^2012
+2^1007
+1^2014
+828
+d
+18
+1
+Liczba 3^(1/3)*3^(1/6) jest równa
+3^(1/9)
+3^(1/18)
+6^(1/18)
+3^(1/2)
+1193
+b
+19
+1
+Liczba (5^3*25)/5^(1/2) jest równa
+5^5*5^(1/2)
+5^4*5^(1/2)
+5^3*5^(1/2)
+5^6*5^(1/2)
+1393
+c
+20
+1
+Liczba (1/(729^(1/3)+256^(1/4)+2)^0)^-2 jest równa
+1/225
+1/15
+1
+15
+368
+d
+21
+1
+Liczb© 32^(1/2) można przedstawić w postaci
+8*2^(1/2)
+12*3^(1/2)
+4*8^(1/2)
+4*2^(1/2)
+823
+b
+22
+1
+Wartość wyrażenia 5^100+5^100+5^100+5^100+5^100 jest równa
+5^500
+5^101
+25^100
+25^500
+754
+d
+23
+1
+Wyrażenie (1,5^2+0,8^2)^(1/2) jest równe
+2,89
+2,33
+1,89
+1,70
+831
+a
+24
+1
+Wyrażenie 2*50^(1/2)-4*8^(1/2) zapisane w postaci jednej pot©gi wynosi
+2^(3/2)
+2^(1/2)
+2^-1
+2^(1/2)
+1007
+b
+25
+1
+Liczba (50^(1/2-18^(1/2)/2^(1/2) jest równa
+2*2^(1/2)
+2
+4
+10^(1/2)-6^(1/2)
+759
+d
+26
+1
+Do przedziaˆu (1,2^(1/2) należy liczba
+3^(1/2)-1
+2*5^(1/2)-3*2^(1/2)
+6^(1/2)-3^(1/2)
+5^(1/2)-1^(1/2)
+833
+a
+27
+1
+Która z poniższych liczb jest wi©ksza od 1?
+(0,1)^-3
+(1/2)^10
+(-2)^-4
+1/2^(1/2)
+836
+b
+28
+1
+Wiadomo, że x^0,1205=6. Wtedy x^0,3615 równa si©
+6^(1/3)
+216
+36
+3
+760
+c
+29
+1
+Liczb© 0,000421 można zapisać w postaci a*10^k, gdzie a nalezy <1,10>, k nalezy C. Wówczas
+a=0,421; k=-3
+a=4,21; k=-5
+a=4,21; k=-4
+a=42,1; k=-6
+843
+b
+30
+1
+Liczby A=(5^4)^3; B=5^5+5^5; C=5^12:5^7; D=5^3*5^6 ustawiono w kolejności malej¥cej, zatem
+B>A>D>C
+A>D>B>C
+A>B>D>C
+C>B>D>A
+1342
+a
+31
+1
+Po uproszczeniu wyrażenia ((a^2:a^3)^-2)/a^-5, gdzie a /=/ 0, otrzymamy
+a^7
+a^-3
+a^3
+a^-7
+930
+a
+32
+1
+Cena towaru bez podatku VAT jest równa 60 zˆ. Towar ten wraz z podatkiem VAT w wysokości 22% kosztuje
+73,20 zˆ
+49,18 zˆ
+60,22 zˆ
+82,00 zˆ
+31
+d
+33
+1
+Wskaż liczb©, której 0,4% jest równe 12
+0,048
+0,48
+30
+3000
+788
+a
+34
+1
+4,5% liczby x jest równe 48,6. Liczba x jest równa
+1080
+108
+48,6
+4,86
+757
+d
+35
+1
+Liczba a stanowi 80% liczby b. Zatem
+b=1,2a
+a-b=0,2a
+a-b=0,2b
+8b=10a
+273
+c
+36
+1
+Marża równa 1,5% kwoty pożyczonego kapitaˆu byˆa równa 3000 zˆ. Wynika st¥d, że pożyczono
+45 zˆ
+2000 zˆ
+200 000 zˆ
+450 000 zˆ
+401
+b
+37
+1
+Spodnie po obniżce ceny o 30% kosztuj¥ 126 zˆ. Ile kosztowaˆy spodnie przed obniżk¥?
+163,80 zˆ
+180 zˆ
+294 zˆ
+420 zˆ
+683
+d
+37
+1
+Wskaż liczb©, której 6% jest równe 6.
+0,36
+3,6
+10
+100
+372
+b
+39
+1
+W pewnym sklepie ceny wszystkich pˆyt CD obniżono o 20%. Zatem za dwie pˆyty kupione w tym sklepie należy zapˆacić mniej o
+10%
+20%
+30%
+40%
+99
+a
+40
+1
+Liczba 30 to p% liczby 80, zatem
+p<40
+p=40
+p=42,5
+p>42.5
+100
+a
+41
+1
+4% liczby x jest równe 6, zatem
+x=150
+x<150
+x=240
+x=>240
+101
+b
+42
+1
+Liczba y to 120% liczby x. Wynika st¥d, że
+y=x+0,2
+y=x+0,2*x
+x=y-0,2
+x=y-0,8*y
+437
+b
+43
+1
+20% pewnej liczby jest o 16 mniejsze od tej liczby. T¥ liczb¥ jest
+32
+20
+-2
+-20
+469
+c
+44
+1
+Suma liczby x i 15% tej liczby jest równa 230. Równaniem opisuj¥cym t¥ zależność jest
+0,15*x=230
+0,85*x=230
+x+0,15*x=230
+x-0,15*x=230
+236
+c
+45
+1
+Dˆugość boku kwadratu k2 jest o 10% wi©ksza od dˆugości boku kwadratu k1. Wówczas pole kwadratu k2 jest wi©ksze od pola kwadratu k1
+o 10%
+o 110%
+o 21%
+o 121%
+209
+d
+46
+1
+Kwot© 10000 zˆ wpˆacamy do banku na 4 lata. Kapitalizacja odsetek jest dokonywana w tym banku co kwartaˆ, a roczna stopa procentowa wynosi 3%. Po 4 latach kwot© na rachunku b©dzie można opisać wzorem
+10000*(1,0075)^4
+10000*(1,0,)^4
+10000*(1,03)^16
+10000*(1,0075)^16
+986
+b
+47
+1
+Liczby a i b s¥ dodatnie oraz 12% liczby a jest równe 15% liczby b. St¥d wynika, że a jest równe
+103% liczby b
+125% liczby b
+150% liczby b
+153% liczby b
+7
+b
+48
+1
+Klasa liczy 20 chˆopców i 12 dziewcz¥t. Liczba dziewcz¥t jest mniejsza od liczby chˆopców o
+25%
+405
+60%
+67%
+1192
+a
+49
+1
+Gdy od 17% liczby 21 odejmiemy 21% liczby 17, to otrzymamy
+0
+4/100
+3,57
+4
+1268
+c
+50
+1
+Liczba a stanowi 40% liczby b. Wówczas
+b=0,4a
+b=0,6a
+b=2,5a
+b=0,25a
+1278
+a
+51
+1
+Pan Nowak wpˆaciˆ do banku k zˆ na procent skˆadany. Oprocentowanie w tym banku wynosi 4% w skali roku, a odsetki kapitalizuje si© co póˆ roku. Po 6 latach oszcz©dzania Pan Nowak zgromadzi na koncie kwot©
+k*(1+0,02)^12 zˆ
+k*(1+0,04)^12 zˆ
+k*(1+0,02)^6 zˆ
+k*(1+0,04)^6 zˆ
+1374
+c
+52
+1
+Jeżeli liczba 78 jest o 50% wi©ksza od liczby c, to
+c=39
+c=48
+c=52
+c=60
+1422
+c
+53
+1
+Julia poˆow© swoich oszcz©dności przeznaczyˆa na prezent dla Maćka. 10% tego, co jej zostaˆo, przeznaczyˆa na prezent dla Dominiki. Ile procent oszcz©dności pozostaˆo Julii?
+25
+40
+45
+55
+898
+d
+54
+1
+Samochód kosztowaˆ 30000 zˆ. Jego cen© obniżono o 10%, a nast©pnie cen© po tej obniżce ponownie obniżono o 10%. Po tych obniżkach samochód kosztowaˆ
+24400
+24700
+24000
+24300
+729
+b
+55
+1
+Cen© butów obniżono o 10%, a po miesi¥cu dalsz¥ cen© podwyższono o 10%. W wyniku obu obniżek cena butów
+wzrosˆa o 1%
+zmalaˆa o 1%
+nie zmieniˆa si©
+wzrosˆa o 0,1%
+304
+a
+56
+1
+Cen© nart obniżono o 20%, a po miesi¥cu now¥ cen© obniżono o dalsze 30%. W wyniku obu obniżek cena nart zmniejszyˆa si© o
+44%
+50%
+56%
+60%
+340
+d
+57
+1
+Cena kurtki po dwóch kolejnych obniżkach, za każdym razem o 10% jest równa 202 zˆ 50 gr. Przed obniżkami cena tej kurtki byˆa równa
+202 zˆ 70 gr
+222 zˆ 50 gr
+243 zˆ
+250 zˆ
+824
+d
+58
+1
+Cen© pewnego towaru obniżono najpierw o 30%, a potem o 20%. Zatem cen© towaru obniżono o
+50%
+60%
+56%
+44%
+779
+18225
+59
+1
+Trzy lata temu pewne miasteczko liczyˆo 25 000 mieszkaäców. Przez trzy ostatnie lata każdego roku liczba mieszkaäców zmniejszyˆa si© o 10%. Oblicz, ile osób mieszka w tym miasteczku.
+-
+-
+-
+-
+1339
+c
+60
+1
+Cen© pralki obniżono o 30%, a po dwóch miesi¥cach now¥ cen© obniżono jeszcze o 20%. W wyniku obu obniżek cena pralki zmniejszyˆa si© o
+25%
+50%
+44%
+56%
+825
+d
+61
+1
+Licznik pewnego uˆamka jest równy 6. Jeżeli licznik tego uˆamka zmniejszymy o 2, a mianownik o 3, to wartość tego uˆamka si© nie zmieni. Jaki to uˆamek?
+6/10
+6/5
+6/1
+6/9
+665
+np. -1;2
+62
+1
+Podaj przykˆad liczb caˆkowitych dodatnich a i b, speˆniaj¥cych (4/9)<(a/b)<(5/9).
+-
+-
+-
+-
+666
+np. -23;26
+63
+1
+Podaj przykˆad liczb caˆkowitych dodatnich x i y, speˆniaj¥cych (11/13)<(x/y)<(12/13)
+-
+-
+-
+-
+1452
+d
+64
+1
+Liczba 0,6 jest jednym z przybliżeä liczby 5/8. Bˆ¥d wzgl©dny tego przybliżenia wyrażony w procentach jest równy
+0,025%
+2,5%
+0,04%
+4%
+1035
+1
+1
+2
+Oblicz log(5;5).
+-
+-
+-
+-
+1036
+0
+2
+2
+Oblicz log(7;1).
+-
+-
+-
+-
+1037
+-4
+3
+2
+Oblicz log(1/3;81)
+-
+-
+-
+-
+1038
+-6
+4
+2
+Oblicz log(2;1/64)
+-
+-
+-
+-
+1039
+1/2
+5
+2
+Oblicz log(1/4;1/2)
+-
+-
+-
+-
+1040
+6
+6
+2
+Oblicz log(2^(1/2);8)
+-
+-
+-
+-
+1041
+1/3
+7
+2
+Oblicz log(5;5^(1/3))
+-
+-
+-
+-
+1042
+2/3
+8
+2
+Oblicz log(5^(1/3);5^(1/3))
+-
+-
+-
+-
+77
+d
+9
+2
+Liczba 2*log(1/5;125) jest równa
+6
+-3
+3
+-6
+307
+b
+10
+2
+Iloczyn 2*log(1/3;9) jest równy
+-6
+-4
+-1
+1
+342
+a
+11
+2
+Liczba 2*log(3;27)-log(2;16) jest równa
+2
+-8
+9
+3/2
+370
+a
+12
+2
+Liczba log(3;1/27) jest równa
+-3
+-1/3
+1/3
+3
+476
+c
+13
+2
+Liczba log(2;4)+2*log(3;1) jest równa
+0
+1
+2
+4
+1376
+c
+14
+2
+Suma log(8;16)+1 jest równa
+log(8;17)
+3/2
+7/3
+3
+1420
+b
+15
+2
+Liczba c=log(3;2), Wtedy
+c^3=2
+3^c=2
+3^2=c
+c^2=3
+1055
+2
+16
+2
+Oblicz log(6;3)+log(6;12)
+-
+-
+-
+-
+1056
+2
+17
+2
+Oblicz log(8;32)+log(8;2)
+-
+-
+-
+-
+1057
+b
+18
+2
+Oblicz log(2;4)+log(2;8)
+-
+-
+-
+-
+1058
+3
+19
+2
+Oblicz log(25)+log(40)
+-
+-
+-
+-
+1059
+2
+20
+2
+Oblicz log(5;50)-log(5;2)
+-
+-
+-
+-
+1060
+3
+21
+2
+Oblicz log(2;24)-log(2;3)
+-
+-
+-
+-
+1061
+2
+22
+2
+Oblicz log(3;36)-log(3;4)
+-
+-
+-
+-
+1062
+2
+23
+2
+Oblicz log(300)-log(3)
+-
+-
+-
+-
+987
+b
+24
+2
+Liczba log(100)-log(2;8) jest równa
+-2
+-1
+0
+1
+18
+c
+25
+2
+Liczba 2-2*log(2;3) jest równa
+0
+log(2;2/9)
+log(2;4/9)
+log(2;2/3)
+238
+d
+26
+2
+Liczba log(3;27)-log(3;1) jest równa
+0
+1
+2
+3
+732
+c
+27
+2
+Suma log(4;2)+log(4;32) jest równa
+log(4;14)
+log(16;48)
+3
+4
+403
+b
+28
+2
+Liczba log(4;8)+log(4;2) jest równa
+1
+2
+log(4;6)
+log(4;10)
+98
+b
+29
+2
+Liczba log(24) jest równa
+2*log(2)+log(20)
+log(6)+2*log(2)
+2*log(6)-log(12)
+log(30)-log(6)
+829
+c
+30
+2
+Liczba log(2;(log(20)+log(5))) jest równa
+5
+2
+1
+0
+1200
+b
+31
+2
+Liczba log(2;100)-log(2;50) jest równa
+log(2;50)
+1
+2
+log(2;5000)
+1265
+c
+32
+2
+Wartość wyrażenia (1/2)*log(3;15)-log(3;5^(1/2)) jest równa
+-1
+log(3;3*5^(1/2)
+1/2
+1
+697
+b
+33
+2
+Liczba log(12) jest równa
+log(3)*log(4)
+log(3)+log(4)
+log(16)-log(4)
+log(10)+log(2)
+436
+c
+34
+2
+Liczba log(6) jest równa
+log(2)*log(3)
+log(2)/log(3)
+log(2)+log(3)
+log(2)-log(3)
+821
+c
+35
+2
+Wiadomo, że a=3*log(8;4), zatem a jest równe
+512
+81
+2
+64
+468
+a
+1
+3
+Rozwi¥zaniem równania 3(2-3x)=x-4 jest
+x=1
+x=2
+x=3
+x=4
+405
+d
+2
+3
+Rozwi¥zaniem równania (3x-1)/(7x+1)=2/5 jest
+1
+7/3
+4/7
+7
+102
+d
+3
+3
+Rozwi¥zaniem równania (x-3)/(2-x)=1/2 jest liczba
+-4/3
+-3/4
+3/8
+8/3
+146
+5/8
+4
+3
+Rozwi¥ż równanie (2-3x)/(1-2x)=-1/2
+-
+-
+-
+-
+438
+a
+5
+3
+Rozwi¥zaniem równania -2=(x-1)/(x+2) jest liczba
+-1
+1
+0
+5/3
+1423
+b
+6
+3
+Rozwi¥zaniem równania (x-5)/(7-x)=1/3 jest liczba
+-11
+11/2
+2/11
+11
+74
+a
+7
+3
+Odcinek dˆugości 2,4 m podzielono w stosunku 2:3:5. Najdˆuższy z wyznaczonych odcinków ma dˆugość
+120 cm
+0,72 m
+480 mm
+14 dm
+383
+a
+8
+3
+Pole prostok¥ta jest równe 40. Stosunek dˆugości jego boków jest równy 2:5. Dˆuższy bok tego prostok¥ta jest równy
+10
+8
+7
+6
+276
+c
+9
+3
+Jeden k¥t trójk¥ta ma miar© 54ø. Z pozostaˆych dwóch k¥tów tego trójk¥ta jeden jest 6 razy wi©kszy od drugiego. Miary pozostaˆych k¥tów s¥ równe
+21 i 105
+11 i 66
+18 i 108
+16 i 96
+103
+b
+10
+3
+Mniejsz¥ z dwóch liczb speˆniaj¥cych równanie x^2+5x+6=0 jest
+-6
+-3
+-2
+-1
+439
+c
+11
+3
+Wi©ksza z liczb speˆniaj¥cych równanie x^2+6x+8=0 to
+2
+4
+-2
+-4
+751
+x=-3-2^1/2 lub x=-3+2^1/2
+12
+3
+Rozwi¥ż równanie x^2+6x+7=0
+-
+-
+-
+-
+90
+b^2+4b+4=(b+2)^2
+13
+3
+Uzasadnij, że równanie x^2+(b-2)x-2b=0 dla dowolnej liczby rzeczywistej b ma przynajmniej jedno rozwi¥zanie.
+-
+-
+-
+-
+1382
+d
+1
+4
+Pierwiastki x1, x2 równania 2(x+2)(x-2)=0 speˆniaj¥ warunek
+(1/x1)+(1/x^2)=1/2
+(1/x1)+(1/x^2)=1/4
+(1/x1)+(1/x^2)=-1
+(1/x1)+(1/x^2)=0
+994
+b
+2
+4
+Najmniejsz¥ liczb¥ caˆkowit¥ speˆniaj¥c¥ nierówność x/2<=(2x/3)+1/4 jest
+-2
+-1
+0
+1
+375
+a
+3
+4
+Najwi©ksz¥ liczb¥ caˆkowit¥ speˆniaj¥c¥ nierówność (4+x)^2<(x-4)(x+4) jest
+-5
+-4
+-3
+-2
+1014
+5)x należy ([-8];1> lub <2,5;[8])
+5
+4
+Rozwi¥ż nierówność 2x^2-7x+5>=0.
+-
+-
+-
+-
+936
+b
+6
+4
+Zbiorem rozwi¥zaä nierówności x(x+5)>0 jest
+x nalezy ([-8];0) lub (5;[8]
+x nalezy ([-8];-5) lub (0;[8]
+x nalezy ([-8];-5) lub (5;[8]
+x nalezy (-5;[8])
+955
+x należy ([-8];2) lub (12;[8])
+7
+4
+Rozwi¥ż nierówność x^2-14x+24>0.
+-
+-
+-
+-
+908
+c
+8
+4
+Zbiorem rozwi¥zaä nierówności (x-2)(x+3)>=0 jest
+<-2;3>
+<-3;2>
+([-8];-3> lub <2;[8])
+([-8];21> lub <3;[8])
+921
+x należy <-6;-5>
+9
+4
+Rozwi¥ż nierówność x^2+11x+30<=0.
+-
+-
+-
+-
+21
+x należy <0;1/4>
+10
+4
+Rozwi¥ż nierówność -2x^2+0,5>=0
+-
+-
+-
+-
+56
+x należy <-2;4>
+11
+4
+Rozwi¥ż nierówność: -x^2+2x+8>=0.
+-
+-
+-
+-
+75
+a
+12
+4
+Zbiorem rozwi¥zaä nierówności x^2<4 jest
+(-2;2)
+([-8];-2) lub <2;[8])
+([-8];2)
+<-2;2>
+230
+x należy([-8];-3) lub (3;[8]) 
+13
+4
+Rozwi¥ż nierówność x^2-9>0.
+-
+-
+-
+-
+815
+x należy R
+14
+4
+Rozwi¥ż nierówność x^2-x+5>0.
+-
+-
+-
+-
+216
+x należy([-8];1> lub <7;[8])
+15
+4
+Rozwi¥ż nierówność x^2-8x+7>=0.
+-
+-
+-
+-
+244
+a
+16
+4
+Zbiorem rozwi¥zaä nierówności x(x+6)<0 jest
+(-6;0)
+(0;6)
+([-8];-6) lub (0;[8])
+([-8];0) lub (6;[8])
+294
+x należy (-2;5) 
+17
+4
+Rozwi¥ż nierówność x^2-3x-10<0.
+-
+-
+-
+-
+406
+d
+18
+4
+Do zbioru rozwi¥zaä nierówności (x-2)(x+3)<0 należy liczba
+9
+7
+4
+1
+425
+x należy <-1;2>
+19
+4
+Rozwi¥ż nierówność x^2-x-2<=0
+-
+-
+-
+-
+929
+x należy ([-8];-5) lub (-3;[8])
+20
+4 
+Rozwi¥ż nierówność x^2+8x+15>0
+-
+-
+-
+-
+698
+d
+21
+4
+Zbiorem rozwi¥zaä nierówności x^2>4x jest
+([-8];-4) lub (0;[8])
+(4;[8])
+([-8];-2) lub (2;[8])
+([-8];0 lub (4;[8])
+358
+x należy ([-8];-1/2> lub <2;[8])
+22
+4
+Rozwi¥ż nierówność -2x^2+3x+2<=0
+-
+-
+-
+-
+389
+x należy <-3;4>
+23
+4
+Rozwi¥ż nierówność -3x^2+3x+36>=0
+-
+-
+-
+-
+491
+x należy (1;2)
+24
+4
+Rozwi¥ż nierówność x^2-3x+2<0
+-
+-
+-
+-
+148
+x należy <-7;1>
+25
+4
+Rozwi¥ż nierówność x^2+6x-7<=0.
+-
+-
+-
+-
+445
+c
+26
+4
+Do zbioru rozwi¥zaä nierówności 9<=x^2 należy liczba
+-2
+0
+-3
+2
+462
+x naależy <-6;1>
+27
+4
+Rozwi¥ż nierówność x^2+5x<=6
+-
+-
+-
+-
+893
+d
+28
+4
+Zbiorem rozwi¥zaä nierówności 3^x^2+2x-1<=0 jest
+([-8];-1) lub <1/3;[8])
+(-1;1/3)
+([-8];-1) lub (1/3;[8])
+<-1;1/3>
+894
+b
+29
+4
+Zbiorem rozwi¥zaä nierówności -x^2+2x-1<0 jest
+Zbiór pusty
+R\{1}
+R
+R\{-1}
+1216
+x należy <0;3>
+30
+4
+Rozwi¥ż nierówność 3x-x^2>=0
+-
+-
+-
+-
+1288
+x należy R
+31
+4
+Rozwi¥ż nierówność: -2x^2+3x<4
+-
+-
+-
+-
+1314
+d
+32
+4
+Najmniejsz¥ liczb¥ naturaln¥, która nie speˆnia nierówności x^2-7x-5<0 jest
+0
+3
+7
+8
+1329
+1,2,3,4 oraz ewentualnie 0
+33
+4
+Wyznacz wszystkie liczby naturalne speˆniaj¥ce nierówność x^2-x-12<=0.
+-
+-
+-
+-
+1364
+x należy (-1;5>
+34
+4
+Rozwi¥ż nierówność (2-x)^2<=9
+-
+-
+-
+-
+1443
+x należy R\<-7;2>
+35
+4
+Rozwi¥ż nierówność -x^2-5x+14<0.
+-
+-
+-
+-
+1191
+d
+4
+4
+Wskaż rysunek, na którym przedstawiony jest zbiór rozwi¥zaä nierówności 2(3-x)>x
+[#IMG]
+[#IMG]
+[#IMG]
+[#IMG]
+44
+b
+1
+5
+Dziedzin¥ funkcji f(x)=(x^2-16)/((x-2)(x+4)) jest zbiór:
+R\{-2;4}
+R\{2;-4}
+R\{-4;4}
+R\{2}
+1425
+d
+2
+5
+Dziedzin¥ funkcji f jest przedziaˆ  [#IMG]
+<0;3>
+(0;8>
+<-3;3>
+(-3;8>
+1013
+a) 7; b) x należy (-3;5)
+3
+5
+Na rysunku przedstawiony jest wykres funkcji f(x) określonej dla x należy [-7,8], a) Odczytaj z wykresu i zapisz: a) najwi©ksz¥ wartość funkcji f, b) zbiór rozwi¥zaä nierówności f(x)<0. [#IMG]
+-
+-
+-
+-
+6
+b
+4
+5
+Zbiorem wartości funkcji przedstawionej na rysunku jest przedziaˆ [#IMG]
+<-3;6>
+<-1;4>
+(1;3)
+(-2;2)
+33
+b
+5
+5
+Zbiorem wartości funkcji, której wykres przedstawiono na rysunku jest przedziaˆ [#IMG]
+<-4;5>
+<-3;4>
+<-2;4>
+<-3;2>
+378
+c
+6
+5
+Na rysunku przedstawiony jest wykres funkcji y=f(x), Zbiorem wartości tej funkcji jest [#IMG]
+(-4;3>
+<-4;-1>) lub <1;3>
+<-4;-1> lub (1;3>)
+<-5;6>
+1215
+b
+7
+5
+Na rysunku przedstawiono wykres funkcji y=f(x). Najwi©ksza wartość funkcji f w przedziale [-1,1] jest równa [#IMG]
+4
+3
+2
+1
+1316
+b
+8
+5
+Rysunek przedstawia wykres pewnej funkcji y=f(x), określonej dla x należy <-4,4>. Zbiór wszystkich argumentów, dla których funkcja f przyjmuje wartości niedodatnie, to zbiór [#IMG]
+<0,3) lub (3,4>
+<-4,-3> lub <0,4>
+(-4,-3) lub (0,3) lub (3,4)
+(-2,1) lub (3,4)
+1355
+a
+9
+5
+Do wykresu funkcji f(x)=a/(x+1) określonej dla x=/=-1 należy punkt A=(-2,3) dla a równego
+-3
+3
+-8
+8
+409
+c
+10
+5
+Na rysunku przedstawiony jest wykres funkcji y=f(x). Które równanie ma dokˆadnie trzy rozwi¥zania? [#IMG]
+f(x)=0
+f(x)=1
+f(x)=2
+f(x)=3
+152
+[#IMG]
+11
+5
+Naszkicuj wykres funkcji f(x)={2x+1 dla x<=0; x+2 dla x>0}
+-
+-
+-
+-
+1426
+a
+12
+5
+Najwi©ksz¥ wartości¥ funkcji f jest [#IMG]
+3
+0
+-3
+8
+735
+d
+13
+5
+Miejscem zerowym funkcji kwadratowej y=-(-x-7)(1+x) jest
+x=7
+x=1
+x=0
+x=-1
+737
+b
+14
+5
+Dany jest wykres funkcji Ile miejsc zerowych ma ta funkcja w przedziale <-[pi],1>? [#IMG]
+0
+1
+2
+3
+310
+a
+15
+5
+Miejscami zerowymi funkcji kwadratowej y=-3(x-7)(x+2) s¥
+x=7;x=-2;
+x=-7;x=-2;
+x=7;x=2;
+x=-7;x=2;
+312
+c
+16
+5
+Wskaż wykres funkcji, która w przedziale <-4,4> ma dokˆadnie jedno miejsce zerowe
+[#IMG]
+[#IMG]
+[#IMG]
+[#IMG]
+685
+a
+17
+5
+Funkcja f jest określona wzorem f(x)={x-4 dla x<=3; -x+2 dla x>3}. Ile miejsc zerowych ma ta funkcja
+0
+1
+2
+3
+105
+a
+18
+5
+Funkcja f jest określona wzorem f(x)={-3x+4 dla x<1; 2x-1 dla x>=1}. Ile miejsc zerowych ma ta funkcja
+0
+1
+2
+3
+151
+x=-1/2
+19
+5
+Oblicz miejsca zerowe funkcji f(x)={2x+1 dla x<=0; x+2 dla x>0}
+-
+-
+-
+-
+205
+b
+20
+5
+Miejscem zerowym funkcji f określonej wzorem f(x)={x^2-1 dla x należy ([-8];-4>; 5x+10 d;a x należy (-4;2); x+4 dla x należy <2;[8])} jest
+-4
+-2
+-1
+1
+240
+b
+21
+5
+Liczba (-2) jest miejscem zerowym funkcji liniowej f(x)=mx+2. Wtedy
+m=2
+m=1
+m=-2
+m=-4
+104
+d
+22
+5
+Liczba 1 jest miejscem zerowym funkcji liniowej f(x)=(2-m)x+1. Wynika st¥d, że
+m=0
+m=1
+m=2
+m=3
+345
+c
+23
+5
+Miejscem zerowym funkcji liniowej f(x)=-2x+m+7 jest liczba 3. Wynika st¥d, że
+m=7
+m=1
+m=-1
+m=-7
+710
+m=2 lub m=-2
+24
+5
+Dana jest funkcja f(x)=(1+m^2)x-5. Oblicz wspóˆczynnik m jeżeli wiadomo, że x=1 jest miejscem zerowym funkcji f(x).
+-
+-
+-
+-
+1345
+a
+25
+5
+Miejscami zerowymi funkcji f(x)=((x-2)(x^2-6x+9))/(x^2-9) s¥ liczby
+2
+2;3
+-2;3
+-3;2;3
+709
+b=3
+26
+5
+Dana jest funkcja f(x)=(x^2)/(1-b), Oblicz wspóˆczynnik b jeżeli wiadomo, że f(2)=-3
+-
+-
+-
+-
+390
+b=3
+27
+5
+Funkcja f jest określona wzorem f(x)=(2x-b)/(x-9) dla x=/=9, Ponadto wiemy, że f(4)=-1. Oblicz wspóˆczynnik b
+-
+-
+-
+-
+442
+c
+28
+5
+Funkcja liniowa f(x)=(m+2)x+2m jest rosn¥ca, gdy
+m<-2
+m>2
+m>-2
+m>-4
+444
+d
+29
+5
+Punkt P=(a+1;2) należy do wykresu funkcji f(x)=4x, Liczba a jest równa
+0
+-1
+2
+1
+1195
+c
+30
+5
+Funkcja f jest określona wzorem f(x)=(2x)/(x-1) dla x=/=1, Wartość funkcji f dla argumentu x=2 jest równa
+2
+-4
+4
+-2
+1275
+c
+31
+5
+Dana jest funkcja h(x)=(-1/3m+2)x+3/2m-1. Funkcja ta dla argumentu 0 przyjmuje wartość 5. Wówczas
+m=9
+m=6
+m=4
+m=2
+1401
+a) x należy (2;3); b) x=6
+32
+5
+Na rysunku przedstawiono fragment wykresu funkcji f, który powstaˆ w wyniku przesuni©cia wykresu funkcji określonej wzorem y=1/x dla każdej liczby rzeczywistej x=/=0. a) Odczytaj z wykresu i zapisz zbiór tych wszystkich argumentów, dla których wartości funkcji f s¥ wi©ksze od 0. b) Podaj miejsce zerowe funkcji g określonej wzorem g(x)=f(x-3). [#IMG]
+-
+-
+-
+-
+993
+a
+1
+6
+Na rysunku przedstawiony jest fragment wykresu pewnej funkcji liniowej y=ax+b, Jakie znaki maj¥ wspóˆczynniki a i b? [#IMG]
+a<0 i b<0
+a<0 i b>0
+a>0 i b<0
+a>0 i b>0
+287
+c
+2
+6
+Jeden z rysunków przedstawia wykres funkcji liniowej f(x)=ax+b, gdzie a>0 i b<0. Wskaż ten wykres.
+[#IMG]
+[#IMG]
+[#IMG]
+[#IMG]
+376
+d
+3
+6
+Funkcja f(x)=0,5x-6
+jest malej¥ca i jej wykres przechodzi przez punkt (0,6)
+jest rosn¥ca i jej wykres przechodzi przez punkt (0,6)
+jest malej¥ca i jej wykres przechodzi przez punkt (0,-6)
+jest rosn¥ca i jej wykres przechodzi przez punkt (0,-6)
+1378
+d
+4
+6
+Funkcja liniowa f(x)=(m^2-4)x+2 jest malej¥ca, gdy
+m należy ([-8];-2)
+m należy (2;[8])
+m należy {-2;2}
+m należy (-2;2)
+1429
+d
+5
+6
+Funkcja liniowa f(x)=ax+b  jest rosn¥ca i ma dodatnie miejsce zerowe. St¥d wynika, że
+a>0 i b>0
+a<0 i b<0
+a<0 i b>0
+a>0 i b<0
+716
+y=-1/2x+2
+6
+6
+Dane s¥ punkty A=(0,2) oraz B=(2,1). Wyznacz równanie prostej AB
+-
+-
+-
+-
+382
+a
+7
+6
+Dane s¥ punkty A=(6,1) i B=(3,3). Wspóˆczynnik kierunkowy prostej AB jest równy
+-2/3
+-3/2
+3/2
+2/3
+472
+d
+8
+6
+Do wykresu funkcji liniowej należ¥ punkty A=(1,2) i B=(-2,5). Funkcja f ma wzór
+f(x)=x+3
+f(x)=x-3
+f(x)=-x-3
+f(x)=-x+3
+1390
+a
+9
+6
+O funkcji liniowej f wiadomo, że f(1)=2. Do wykresu tej funkcji należy punkt P=(-2,3). Wzór funkcji f to
+f(x)=-1/3x+7/3
+f(x)=-1/2x+2
+f(x)=-3x+7
+f(x)=-2x+4
+992
+d
+10
+6
+Prosta o równaniu y=(2/m)x+1 jest prostopadˆa do prostej o równaniu y=-3/2x-1. St¥d wynika, że
+m=-3
+m=2/3
+m=3/2
+m=3
+951
+c
+11
+6
+Prosta l ma równanie y=-1/4x+7. Wskaż równanie prostej prostopadˆej do prostej l.
+y=1/4x+1
+y=-1/4x-7
+y=4x-1
+y=-4x+7
+42
+d
+12
+6
+Prostymi równolegˆymi s¥ wykresy funkcji liniowych:
+y=4/3x+5  i  y=-3/4x+5
+y=4/3x+5  i  y=-4/3x+5
+y=4/3x+5  i  y=3/4x-5
+y=4/3x+5  i  y=4/3x-5
+73
+d
+13
+6
+Proste y=-3x+4 i y=(1/3a^2-4/3)x s¥ prostopadˆe, jeżeli
+a=-2 lub a=2
+a=2
+a=5^1/2
+a=-(5)^1/2 lub a= 5^1/2
+67
+b
+14
+6
+Prost¥ przechodz¥c¥ przez punkt A=(1,1) i równolegˆ¥ do prostej y=0,5x-1 opisuje równanie
+y=-2x-1
+y=1/2x+1/2
+y=-1/2x+1/2
+y=2x-1
+221
+c
+15
+6
+Proste l i k s¥ prostopadˆe i l: 2x-9y+6=0, k: y=ax+b. Wówczas
+a=-2/9
+a=2/9
+a=-9/2
+a=9/2
+807
+d
+16
+6
+Prosta prostopadˆa do prostej l o równaniu 4x-5y+6=0 ma wzór
+y=-15x+b
+y=-14x+b
+y=-45x+b
+y=-54x+b
+749
+d
+17
+6
+Wskaż równanie prostej prostopadˆej do prostej o równaniu 2x-4y=5
+y=1/2x
+y=-1/2
+y=2x
+y=-2x
+419
+b
+18
+6
+Wspóˆczynnik kierunkowy prostej równolegˆej do prostej o równaniu y=-3x+5 jest równy
+-1/3
+-3
+1/3
+3
+324
+a
+19
+6
+Wskaż równanie prostej równolegˆej do prostej o równaniu 3x-6y+7=0
+y=1/2x
+y=-1/2x
+y=2x
+y=-2x
+711
+a) m>1 ; b) m=-5
+20
+6
+Wyznacz wszystkie parametry m dla których prosta o równaniu y=(m-1)x+5 jest a)rosn¥ca b)równolegˆa do prostej y=-6x+3
+-
+-
+-
+-
+712
+21
+a)m>3/2; b)m=7/4
+6
+Wyznacz wszystkie parametry m dla których prosta o równaniu y=(3-2m)x+5 jest a)malej¥ca b)prostopadˆa do prostej y=2x-3
+-
+-
+-
+-
+350
+a
+22
+6
+Proste o równaniach y=2x-5 i y=(3-m)x+4 s¥ równolegˆe. Wynika st¥d, że
+m=1
+m=5/2
+m=7/2
+m=5
+117
+d
+23
+6
+Wskaż równanie prostej równolegˆej do prostej o równaniu y=2x-7
+y=-2x+7
+y=-1/2x+5
+y=1/2x+2
+y=2x-1
+118
+b
+24
+6
+Które z poniższych równaä opisuje prost¥ prostopadˆ¥ do prostej o równaniu y=4x+5
+y=-4x+3
+y=-1/4x+3
+y=1/4x+3
+y=4x+3
+156
+y=2x
+25
+6
+Napisz równanie prostej równolegˆej do prostej o równaniu 2x-y-11=0 i przechodz¥cej przez punkt P=(1,2).
+-
+-
+-
+-
+446
+a
+26
+6
+Wybierz i zaznacz równanie opisuj¥ce prost¥ prostopadˆ¥ do prostej o równaniu y=1/2x+1
+y=-2x+1
+y=0,5x-1
+y=-1/2x+1
+y=2x-1
+1197
+b
+27
+6
+Prost¥ równolegˆ¥ do prostej o równaniu y=2/3x-4/3 jest prosta opisana równaniem
+y=-2/3x+4/3
+y=2/3x+4/3
+y=3/2x-4/3
+y=-3/2x-4/3
+1270
+a
+28
+6
+Proste o równaniach -3y-mx+12=0 oraz y=6x-12 s¥ prostopadˆe dla m równego
+1/2 
+-18 
+-1/2 
+6
+1356
+d
+29
+6
+Wykresy funkcji liniowych f(x)=((5^1/2)/3)x oraz g(x)=(5/(3*5^1/2)x-1/6
+s¥ prostopadˆe
+przecinaj¥ si©, ale nie s¥ prostopadˆe
+pokrywaj¥ si©
+s¥ równolegˆe, ale si© nie pokrywaj¥
+1436
+d
+30
+6
+Dane s¥ równania czterech prostych [#IMG], Prostopadˆe s¥ proste
+l i n
+l i m
+k i n
+k i m
+254
+a
+31
+6
+Wskaż równanie prostej przechodz¥cej przez pocz¥tek ukˆadu wspóˆrz©dnych i prostopadˆej do prostej o równaniu y=-1/3x+2
+y=3x
+y=-3x
+y=3x+2
+y=1/3x+2
+699
+c
+32
+6
+Prosta l ma równanie y=-7x+2. Równanie prostej prostopadˆej do l i przechodz¥cej przez punkt P=(0,1) ma postać
+y=7x-1
+y=7x+1
+y=1/7x+1
+y=1/7x-1
+473
+b
+33
+6
+Punkt A=(0,5) leży na prostej k prostopadˆej do prostej o równaniu y=x+1. Prosta k ma równanie
+y=x+5
+y=-x+5
+y=x-5
+y=-x-5
+459
+y=3x-1
+34
+6
+Napisz równanie prostej równolegˆej do prostej o równaniu -3x+y-4=0 i przechodz¥cej przez punkt P=(-1,-4)
+-
+-
+-
+-
+1324
+d
+35
+6
+Prost¥ prostopadˆ¥ do prostej y=1/2x-1 i przechodz¥c¥ przez punkt A=(1,1) opisuje równanie
+y=2x-1
+y=1/2x+1/2
+y=-1/2x+1/2
+y=-2x+3
+242
+b
+1
+7
+Dana jest parabola o równaniu y=x^2+8x-14. Pierwsza wspóˆrz©dna wierzchoˆka tej paraboli jest równa
+x=-8
+x=-4
+x=4
+x=8
+243
+b
+2
+7
+Wskaż fragment wykresu funkcji kwadratowej, której zbiorem wartości jest <-2;[8]).
+[#IMG]
+[#IMG]
+[#IMG]
+[#IMG]
+274
+a
+3
+7
+Na jednym z poniższych rysunków przedstawiono fragment wykresu funkcji y=x^2+2x-3. Wskaż ten rysunek.
+[#IMG]
+[#IMG]
+[#IMG]
+[#IMG]
+275
+d
+4
+7
+Wierzchoˆkiem paraboli b©d¥cej wykresem funkcji określonej wzorem f(x)=x^2-4x+4 jest punkt o wspóˆrz©dnych
+(0;2)
+(0;-2)
+(-2;0)
+(2;0)
+735
+d
+5
+7
+Miejscem zerowym funkcji kwadratowej y=-(-x-7)(1+x) jest
+x=7
+x=1
+x=0
+x=-1
+407
+b
+6
+7
+Wykresem funkcji kwadratowej f(x)=-3x^2+3 jest parabola o wierzchoˆku w punkcie
+(3;0)
+(0;3)
+(-3;0)
+(0;-3)
+310
+a
+7
+7
+Miejscami zerowymi funkcji kwadratowej y=-3(x-7)(x+2) s¥
+x=7,x=-2
+x=-7,x=-2
+x=7,x=2
+x=-7,x=2
+377
+c
+8
+7
+Liczby x1,x2 s¥ rozwi¥zaniami równania 4(x+2)(x-6)=0 . Suma x1^2+x2^2 jest równa
+16
+32
+40
+48
+109
+a
+9
+7
+Wskaż funkcj© kwadratow¥, której zbiorem wartości jest przedziaˆ ([-8];3>
+f(x)=-(x-2)^2+3
+f(x)=(2-x)^2+3
+f(x)=-(x+2)^2-3
+f(x)=(2-x)^2-3
+111
+d
+10
+7
+Wykres funkcji kwadratowej f(x)=3(x+1)^2-4 nie ma punktów wspólnych z prost¥ o równaniu
+y=1
+y=-1
+y=-3
+y=-5
+112
+c
+11
+7
+Prosta o równaniu y=a ma dokˆadnie jeden punkt wspólny z wykresem funkcji kwadratowej f(x)=-x^2+6x-10. Wynika st¥d, że
+a=3
+a=0
+a=-1
+a=-3
+113
+c
+12
+7
+Jaka jest najmniejsza wartość funkcji kwadratowej f(x)=x^2+4x-3 w przedziale <0,3>?
+-7
+-4
+-3
+-2
+359
+15
+13
+7
+Oblicz najwi©ksz¥ wartość funkcji f(x)=-2x^2+16x-15 w przedziale <-2,3>.
+-
+-
+-
+-
+153
+-4
+14
+7
+Oblicz najmniejsz¥ wartość funkcji kwadratowej f(x)=x2-6x+1 w przedziale <0,1>
+-
+-
+-
+-
+14
+c
+15
+7
+Funkcja kwadratowa f(x)=-2(x-5)(x+1) jest malej¥ca w zbiorze
+(-1,5)
+([-8],2>
+<2,[8])
+([-8],-1) lub (5,[8])
+990
+d
+16
+7
+Wierzchoˆkiem paraboli o równaniu y=-3(x-2)^2+4 jest punkt o wspóˆrz©dnych
+(-2,-4)
+(-2,4)
+(2,-4)
+(2,4)
+1199
+c
+17
+7
+Wierzchoˆek paraboli o równaniu y=(x+1)^2+2c leży na prostej o równaniu y=6. Wtedy
+c=-6
+c=-3
+c=3
+c=6
+1272
+b
+18
+7
+Na wykresie przedstawiony jest trójmian y=ax^2+bx+c [#IMG] Wynika z tego, że
+b<0
+b>0
+b<=0
+b>=0
+1349
+a
+19
+7
+Wierzchoˆek paraboli, która jest wykresem funkcji y=x^2-2x-3 leży na prostej
+y=-4
+y=4
+y=1
+y=2
+1371
+f(x)=-x^2-2x+3; zw=([-8];4>
+20
+7
+Rysunek obok przedstawia wykres funkcji kwadratowej f. Zapisz wzór funkcji f w postaci ogólnej i podaj jej zbiór wartości [#IMG]
+-
+-
+-
+-
+1379
+a
+21
+7
+Na rysunku przedstawiono fragment wykresu funkcji kwadratowej f, Funkcja f określona jest wzorem [#IMG]
+f(x)=-1/2(x-3)(x+1)
+f(x)=1/2(x-3)(x+1)
+f(x)=-1/2(x+3)(x-1)
+f(x)=1/2(x+3)(x-1)
+1398
+b=-16; c=32
+22
+7
+Wykresem funkcji kwadratowej f(x)=2x2+bx+c jest parabola, której wierzchoˆkiem jest punkt W=(4,0). Oblicz wartości wspóˆczynników b i c
+-
+-
+-
+-
+1427
+d
+23
+7
+Wskaż rysunek, na którym przedstawiony jest wykres funkcji kwadratowej, określonej wzorem f(x)=(x-2)(x+4) [#IMG]
+[#IMG]
+[#IMG]
+[#IMG]
+[#IMG]
+1428
+c
+24
+7
+Funkcja kwadratowa, której zbiorem wartości jest przedziaˆ ([-8],-3> , może być określona wzorem
+y=(x+2)^2-3
+y=-(x+3)^2
+y=-(x-2)^2-3
+y=-x^2+3
+108
+c
+25
+7
+Wskaż równanie osi symetrii paraboli określonej równaniem y=-x^2+4x-11
+x=-4
+x=-2
+x=2
+x=4
+81
+a
+26
+7
+Funkcja kwadratowa y=x^2+bx+c jest malej¥ca dla x należy ([-8;2> a zbiorem jej wartości jest przedziaˆ <-4;[8]). Postać kanoniczna tej funkcji opisana jest wzorem
+f(x)=(x-2)^2-4
+f(x)=(x+2)^2+4
+f(x)=(x+4)^2+2
+f(x)=(x-4)^2+2
+763
+b
+27
+7
+Dwie funkcje f(x)=2x-1 oraz g(x)=-x2 określone s¥ w zbiorze R. Wówczas wykres funkcji h określonej wzorem h(x)=f(x)+g(x) jest przedstawiony na rysunku
+[#IMG]
+[#IMG]
+[#IMG]
+[#IMG]
+734
+d
+28
+7
+Liczby x1,x2 s¥ różnymi rozwi¥zaniami równania x^2-7=0. Wtedy wyrażenie |x1-x2| jest równe
+0
+7^1/2
+-(7)=^1/2
+2*7^1/2
+782
+P=27; a=(-2,0); b=(4,0)
+29
+7
+Wykres funkcji f(x)=x^2-2x-8, gdzie x należy R, przecina oś OX w punktach A i B, Wyznacz wspóˆrz©dne punktów A i B, Oblicz pole trójk¥ta AWB, jeśli W jest wierzchoˆkiem paraboli b©d¥cej wykresem funkcji f
+-
+-
+-
+-
+266
+b^2-4ac=0
+30
+7
+Wykaż, że jeżeli c<0, to trójmian kwadratowy y=x^2+bx+c ma dwa różne miejsca zerowe
+-
+-
+-
+-
+714
+0
+31
+7
+Liczby x1 oraz x2 s¥ rozwi¥zaniami równania x^2-9=0. Oblicz wartość liczbow¥ wyrażenia (x1+x2)/2
+-
+-
+-
+-
+1354
+b
+32
+7
+x1 jest mniejszym, zaś x2 wi©kszym miejscem zerowym funkcji f(x)=2x^2+10x+12, Wyrażenie x2-x1 ma wartość
+-1
+1
+-2
+2
+1271
+a
+33
+7
+Zbiorem wartości funkcji f(x)=-2(x+3)(x-4) jest przedziaˆ
+([-8],24+1/2>
+<-24+1/2,[8])
+<24+1/2,[8])
+<-25+1/2,[8])
+715
+3
+34
+7
+Liczby x1 oraz x2 s¥ rozwi¥zaniami równania (x+1)(2-x)=0, Oblicz x1^2+x1*x2+x2^=2
+-
+-
+-
+-
+433
+8x30i10 lub 12x20i14
+35
+7
+W dwóch hotelach wybudowano prostok¥tne baseny. Basen w pierwszym hotelu ma powierzchni© 240 m^2. Basen w drugim hotelu ma powierzchni© 350 m^2 oraz jest o 5 m dˆuższy i 2 m szerszy niż w pierwszym hotelu. Oblicz, jakie wymiary mog¥ mieć baseny w obu hotelach. Podaj wszystkie możliwe odpowiedzi.
+-
+-
+-
+-
+269
+v=28+1/2km/h
+36
+7
+Kolarz pokonaˆ tras© 114 km. Gdyby jechaˆ ze średni¥ pr©dkości¥ mniejsz¥ o 9,5 km/h, to pokonaˆby t© tras© w czasie o 2 godziny dˆuższym. Oblicz, z jak¥ średni¥ pr©dkości¥ jechaˆ ten kolarz.
+-
+-
+-
+-
+337
+t=2,5h
+37
+7
+Miasto A i miasto B ˆ¥czy linia kolejowa dˆugości 210 km. —rednia pr©dkość poci¥gu pospiesznego na tej trasie jest o 24 km/h wi©ksza od średniej pr©dkości poci¥gu osobowego. Poci¥g pospieszny pokonuje t© tras© o 1 godzin© krócej niż poci¥g osobowy. Oblicz czas pokonania tej drogi przez poci¥g pospieszny.
+-
+-
+-
+-
+723
+10 dni po 6 zadaä 
+38
+7
+Adam rozwi¥zywaˆ codziennie tak¥ sama liczb© zadaä i w sumie rozwi¥zaˆ 60 zadaä. Jeśli rozwi¥zywaˆby codziennie o 6 zadaä wi©cej, to rozwi¥zaˆby te zadania o 5 dni krócej. Oblicz, przez ile dni Adam rozwi¥zywaˆ zadania przed matur¥ i ile zadaä rozwi¥zywaˆ każdego dnia.
+-
+-
+-
+-
+724
+t=8h oraz r=15km/h
+39
+7
+W czasie wakacji Marcin przejechaˆ rowerem ze staˆ¥ pr©dkości¥ odlegˆość z miasteczka A do B licz¥c¥ 120 km. Gdyby jechaˆ ze średni¥ pr©dkości¥ o 5 km/godz. wi©ksz¥, to przejechaˆby t© odlegˆość w czasie o 2 godziny krótszym. Wyznacz średni¥ rzeczywist¥ pr©dkość Marcina i rzeczywisty czas przejazdu
+-
+-
+-
+-
+399
+v=3km/h
+40
+7
+Z dwóch miast A i B, odlegˆych od siebie o 18 kilometrów, wyruszyli naprzeciw siebie dwaj turyści. Pierwszy turysta wyszedˆ z miasta A o jedn¥ godzin© wcześniej niż drugi z miasta B. Oblicz pr©dkość, z jak¥ szedˆ każdy turysta, jeżeli wiadomo, że po spotkaniu pierwszy turysta szedˆ do miasta B jeszcze 1,5 godziny, drugi zaś szedˆ jeszcze 4 godziny do miasta A.
+-
+-
+-
+-
+82
+b
+1
+8
+Ci¥g (an) jest określony wzorem an=(-2)^3n*(n^2-4) dla n>=1, Wówczas
+a2=64
+a2=0
+a2=-64
+a2=128
+247
+d
+2
+8
+Dany jest ci¥g (an) określony wzorem an=n/(-2)^n dla n>=1, Wówczas
+a3=1/2
+a3=-1/2
+a3=3/8
+a3=-3/8
+283
+a
+3
+8
+Ci¥g (an) jest określony wzorem an=(2n+4)^1/2 dla n?1. Wówczas
+a8=2*2^1/2
+a8=8
+a8=5*2^1/2
+a8=12^1/2
+321
+b
+4
+8
+Dany jest ci¥g (an) określony wzorem an=(-1)^n*((2-n)/n^2) dla n>=1, Wówczas wyraz a5 tego ci¥gu jest równy
+-3/25
+3/25
+-7/25
+7/25
+721
+a1=1, a6=53/11
+5
+8
+Ci¥g dany jest wzorem an=(-1)^n+((n^2+n)/(2n-1)), Oblicz a1 i a6
+-
+-
+-
+-
+130
+d
+6
+8
+Ci¥g an jest określony wzorem an=(-3)^n*(9-n^2) dla n>=1. Wynika st¥d, że
+a3=-81
+a3=-27
+a3=0
+a3>0
+771
+d
+7
+8
+Ogólny wyraz nieskoäczonego ci¥gu (an), gdzie n należy N+, jest nast©puj¥cy an=(n^2-2)(n^2-3n). Wszystkie miejsca zerowe ci¥gu (an) tworz¥ zbiór:
+{-(2)^1/5;2^1/2;3}
+{0;2^1/2;3}
+{0;3}
+{3}
+746
+d
+8
+8
+Dany jest ci¥g (an) określony wzorem an=((2^n*n^2)/(1-n^2) dla n>=1, Wówczas wyraz a3 tego ci¥gu jest równy
+-7,2
+7,2
+-9
+9
+727
+a1=11, a2=17
+9
+8
+Suma n pocz¥tkowych wyrazów pewnego ci¥gu liczbowego (an) wyraża si© wzorem Sn=3n^2+8n, Wyznacz dwa pocz¥tkowe wyrazy ci¥gu (an)
+-
+-
+-
+-
+361
+Czwartym
+10
+8
+Ci¥g (an) jest określony dla n>=1 wzorem an=-n^2-4*3^1/2, Sprawd« którym wyrazem tego ci¥gu jest liczba -3^2-(2+3^1/2)
+-
+-
+-
+-
+483
+c
+11
+8
+Ile wyrazów ujemnych ma ci¥g (an) określony wzorem an=2n2-9 dla n>=1?
+0
+1
+2
+3
+169
+5
+12
+8
+Ile wyrazów ujemnych ma ci¥g (an) określony wzorem an=n^2-2n-24 dla n>=1?
+-
+-
+-
+-
+1212
+b
+13
+8
+Ci¥g (an) jest określony wzorem an=n^2-n, dla n>=1. Który wyraz tego ci¥gu jest równy 6?
+drugi
+trzeci
+szósty
+trzynasty
+1276
+a
+14
+8
+Ci¥g (bn) określony jest wzorem bn=(-1)^(2n+3)*(n+1). Suma dwóch pierwszych wyrazów tego ci¥gu jest równa
+-5
+-1
+1
+5
+380
+c
+15
+8
+Ci¥g arytmetyczny (an) jest określony wzorem an=-2n+1 dla n>=1, Różnica tego ci¥gu jest równa
+-1
+1
+-2
+3
+1277
+b
+16
+8
+W ci¥gu arytmetycznym pi¥ty wyraz jest równy 8, zaś siódmy wyraz tego ci¥gu jest równy 14. Dziesi¥ty wyraz tego ci¥gu jest równy:
+21
+23
+24
+3
+1383
+a
+17
+8
+Liczby 2,-1,-4 s¥ trzema pocz¥tkowymi wyrazami ci¥gu arytmetycznego (an) określonego dla liczb naturalnych n>=1. Wzór ogólny tego ci¥gu ma postać
+an=-3n+5
+an=n-3
+an=-n+3
+an=3n-5
+263
+78
+18
+8
+Pierwszy wyraz ci¥gu arytmetycznego jest równy 3, czwarty wyraz tego ci¥gu jest równy 15. Oblicz sum© sześciu pocz¥tkowych wyrazów tego ci¥gu.
+-
+-
+-
+-
+348
+b
+19
+8
+W ci¥gu arytmetycznym (an) dane s¥ a1=2 i a2=4. Suma dziesi©ciu pocz¥tkowych wyrazów tego ci¥gu jest równa
+30
+110
+220
+2046
+1430
+b
+20
+8
+Suma dziesi©ciu pocz¥tkowych wyrazów ci¥gu arytmetycznego (an) jest równa 35. Pierwszy wyraz a1 tego ci¥gu jest równy 3. Wtedy
+a10=7/2
+a10=4
+a10=32/5
+a10=32
+92
+a1=3
+21
+8
+O pewnym ci¥gu arytmetycznym wiadomo, że ma dziesi©ć wyrazów. Suma jego wyrazów o numerach nieparzystych jest równa 75, a suma wyrazów o numerach parzystych jest równa 90. Wyznacz pierwszy wyraz tego ci¥gu
+-
+-
+-
+-
+772
+c
+22
+8
+Pan Jan spˆacaˆ kredyt w wysokości 12 000 zˆ w sześciu ratach, z których każda kolejna byˆa o 500 zˆ mniejsza od poprzedniej. Pierwsza rata byˆa równa:
+2750 zˆ
+3000 zˆ
+3250 zˆ
+3500 zˆ
+745
+b
+23
+8
+Miary k¥tów trójk¥ta s¥ trzema kolejnymi wyrazami ci¥gu arytmetycznego. Najmniejszy k¥t tego trójk¥ta ma miar© 40[.]. Różnica ci¥gu arytmetycznego wynosi
+10[.]
+20[.]
+30[.]
+40[.]
+410
+c
+24
+8
+W ci¥gu arytmetycznym (an) dane s¥: a3=13 i a5=39. Wtedy wyraz a1 jest równy
+13
+0
+-13
+-26
+320
+c
+25
+8
+Miary k¥tów czworok¥ta tworz¥ ci¥g arytmetyczny o różnicy 20[.], Najmniejszy k¥t tego czworok¥ta ma miar©
+40[.]
+50[.]
+60[.]
+70[.]
+335
+x=14, y=126, z=378
+26
+8
+Ci¥g (9,x,19) jest arytmetyczny, a ci¥g (x,42,y,z) jest geometryczny. Oblicz x, y oraz z
+-
+-
+-
+-
+719
+x=5/3
+27
+8
+Liczby x+1;2x+2;8 s¥ trzema kolejnymi wyrazami ci¥gu arytmetycznego. Oblicz x.
+-
+-
+-
+-
+131
+b
+28
+8
+Liczby x-1, 4, 8 (w podanej kolejności) s¥ pierwszym, drugim i trzecim wyrazem ci¥gu arytmetycznego. Wówczas liczba x jest równa
+3
+1
+-1
+-7
+170
+x=7
+29
+8
+Liczby 2,x-3,8 w podanej kolejności s¥ pierwszym, drugim i czwartym wyrazem ci¥gu arytmetycznego. Oblicz x
+-
+-
+-
+-
+171
+a15=72
+30
+8
+Wyrazami ci¥gu arytmetycznego (an) s¥ kolejne liczby naturalne, które przy dzieleniu przez 5 daj¥ reszt© 2. Ponadto a3=12. Oblicz a15.
+-
+-
+-
+-
+447
+b
+31
+8
+Liczby x,4,x+2 s¥ w podanej kolejności drugim, trzecim i czwartym wyrazem ci¥gu arytmetycznego. Wówczas liczba x jest równa
+2
+3
+6
+1
+997
+b
+32
+8
+Ci¥g (an) określony dla n>=1 jest arytmetyczny oraz a3=10 i a4=14. Pierwszy wyraz tego ci¥gu jest równy
+a1=-2
+a1=2
+a1=6
+a1=12
+1211
+c
+33
+8
+Liczby 7,a,49 w podanej kolejności tworz¥ ci¥g arytmetyczny. Wtedy a jest równe
+14
+21
+28
+42
+1317
+d
+34
+8
+Trzydziesty wyraz ci¥gu arytmetycznego (an) jest równy 4, a trzydziesty pi¥ty wyraz tego ci¥gu jest równy 7. Wówczas różnica ci¥gu (an) jest równa
+5
+3
+5/3
+3/5
+1330
+x=1/32
+35
+8
+Liczby 2,log(1/2;x),8 s¥ (w podanej kolejności) wyrazami ci¥gu arytmetycznego. Wyznacz x.
+-
+-
+-
+-
+1353
+c
+36
+8
+Miary k¥tów czworok¥ta tworz¥ ci¥g arytmetyczny o różnicy 20[.], Najwi©kszy k¥t tego czworok¥ta ma miar©
+150[.]
+135[.]
+120[.]
+60[.]
+1448
+a1=2, r=5
+37
+8
+Dany jest ci¥g arytmetyczny (an) określony dla n>=1, w którym a5=22 oraz a10=47. Oblicz pierwszy wyraz a1 i różnic© r tego ci¥gu.
+-
+-
+-
+-
+479
+d
+38
+8
+W ci¥gu geometrycznym (an) mamy a3=5 i a4=15. Wtedy wyraz a5 jest równy.
+10
+20
+75
+45
+1318
+b
+39
+8
+Dany jest ci¥g geometryczny (an) , w którym a1=64 i q=-1/2. Wówczas
+a5=-4
+a5=4
+a5=2
+a5=-2
+1348
+a
+40
+8
+Ci¥g geometryczny (an) określony jest wzorem an=3n/4. Iloraz tego ci¥gu jest równy
+3
+3/4
+1/3
+1/4
+1431
+d
+41
+8
+Ci¥g geometryczny (an) określony jest wzorem an=-3n/4 dla n?1. Iloraz tego ci¥gu jest równy
+-3
+-3/4
+3/4
+3
+84
+c
+42
+8
+Liczby 2; 2x-1; 0,5 (w podanej kolejności) s¥ pierwszym, drugim i trzecim wyrazem monotonicznego ci¥gu geometrycznego dla
+x=0
+x=0 lub x=1
+x=1
+x=-1
+248
+c
+43
+8
+W ci¥gu geometrycznym (an) dane s¥: a1=36, a2=18. Wtedy
+a4=-18
+a4=0
+a4=4,5
+a4=144
+284
+b
+44
+8
+Ci¥g (2*2^1/2,4,a) jest geometryczny. Wówczas
+a=8*2^1/2
+a=4*2^1/2
+a=8-2*2^1/2
+a=8+2*2^1/2
+441
+b
+45
+8
+W ci¥gu geometrycznym (an) dane s¥: a1=3 i a4=24. Iloraz tego ci¥gu jest równy
+8
+2
+1/8
+-1/2
+720
+x=8*2^1/2 lub x=-8*2^1/2
+46
+8
+Liczby 2x,16,x s¥ trzema kolejnymi wyrazami ci¥gu geometrycznego. Oblicz x
+-
+-
+-
+-
+347
+d
+47
+8
+Liczby 12,18,2x+1 s¥, w podanej kolejności, odpowiednio pierwszym, drugim i trzecim wyrazem ci¥gu geometrycznego. Wynika st¥d, że
+x=11+1/2
+x=12
+x=12+1/2
+x=13
+381
+a
+48
+8
+W ci¥gu geometrycznym (an) dane s¥ a2=(3^1/2)/2 i a3=-3/2. Wtedy wyraz a1 jest równy
+-1/2
+1/2
+-(3^1/2)/2
+(3^1/2)/2
+393
+a5=1/4
+49
+8
+Liczby 64,x,4 s¥ odpowiednio pierwszym, drugim i trzecim wyrazem malej¥cego ci¥gu geometrycznego. Oblicz pi¥ty wyraz tego ci¥gu
+-
+-
+-
+-
+132
+a
+50
+8
+Liczby -8, 4, x+1 (w podanej kolejności) s¥ pierwszym, drugim i trzecim wyrazem ci¥gu geometrycznego. Wówczas liczba x jest równa.
+-3
+-1,5
+1
+15
+448
+c
+51
+8
+W ci¥gu geometrycznym (an) s¥ dane: a2=-1,q=-2. Suma czterech kolejnych pocz¥tkowych wyrazów tego ci¥gu jest równa
+2,5
+-7,5
+-2,5
+7,5
+996
+c
+52
+8
+Ci¥g (27,18,x+5) jest geometryczny. Wtedy
+x=4
+x=5
+x=7
+x=9
+1203
+d
+53
+8
+Liczby 3x-4, 8, 2 w podanej kolejności s¥ pierwszym, drugim i trzecim wyrazem ci¥gu geometrycznego. Wtedy
+x=-6
+x=0
+x=6
+x=12
+1369
+x=2, y=9
+54
+8
+Ci¥g (2x-1,y,6x+3)  jest arytmetyczny, a ci¥g (3,y,27)  jest geometryczny rosn¥cy. Oblicz x i y.
+-
+-
+-
+-
+1385
+d
+55
+8
+Liczby: x-2, 6, 12, w podanej kolejności, s¥ trzema kolejnymi wyrazami ci¥gu geometrycznego. Liczba x jest równa
+0
+2
+3
+5
+779
+18225
+56
+8
+Trzy lata temu pewne miasteczko liczyˆo 25 000 mieszkaäców. Przez trzy ostatnie lata każdego roku liczba mieszkaäców zmniejszyˆa si© o 10%. Oblicz, ile osób mieszka w tym miasteczku.
+-
+-
+-
+-
+229
+an=2n-3
+57
+8
+Suma Sn=a1+a2+...+an pocz¥tkowych n wyrazów pewnego ci¥gu arytmetycznego (an) jest określona wzorem Sn=n2-2n. Wyznacz wzór na n-ty wyraz tego ci¥gu.
+-
+-
+-
+-
+945
+c
+1
+9
+K¥t [ALFA] jest ostry i cos[ALFA]=34. Wtedy sin[ALFA] jest równy
+1/4
+(3^1/2)/4
+(7^1/2)/4
+7/16
+918
+a
+2
+9
+K¥t [ALFA] jest ostry i cos[ALFA]=37. Wtedy
+sin[ALFA]=(2*10^1/2)/7
+sin[ALFA]=(10^1/2)/7
+sin[ALFA]=4/7
+sin[ALFA]=3/4
+805
+d
+3
+9
+Sinus k¥ta ostrego [ALFA] jest równy 37. Wówczas cosinus tego k¥ta jest równy
+4/7
+7/4
+(2*7^1/2)7
+(2*10^1/2)7
+123
+d
+4
+9
+K¥t [ALFA] jest ostry i sin[ALFA]=1/4. Wówczas
+cos[ALFA]<3/4
+cos[ALFA]=3/4
+cos[ALFA]=(13^1/2)/4
+cos[ALFA]>(13^1/2)/4
+718
+sin[ALFA]=3/5, tg[ALFA]=3/4
+5
+9
+K¥t [ALFA] jest ostry i cos[ALFA]=45. Oblicz sin[ALFA] i tg[ALFA]
+-
+-
+-
+-
+449
+b
+6
+9
+K¥t [ALFA] jest ostry oraz sin[ALFA]=25. Wówczas
+cos[ALFA]=sin[ALFA]
+cos[ALFA]>sin[ALFA]
+cos[ALFA]<sin[ALFA]
+cos[ALFA]=1-sin[ALFA]
+349
+c
+7
+9
+K¥t [ALFA] jest ostry i sin[ALFA]=0,6. Wówczas
+cos[ALFA]=0,8 i tg[ALFA]=0,4
+cos[ALFA]=0,4 i tg[ALFA]=1,5
+cos[ALFA]=0,8 i tg[ALFA]=0,75
+cos[ALFA]=0,4 i tg[ALFA]=0,75
+249
+c
+8
+9
+K¥t [ALFA] jest ostry i sin[ALFA]=7/13. Wtedy tg[ALFA] jest równy
+7/6
+(7*13)/120
+7/(120^1/2)
+7/(13*120^1/2)
+217
+b
+9
+9
+K¥t [ALFA] jest ostry i tg[ALFA]=12/5. Wówczas cos[ALFA] jest równy:
+5/12
+5/13
+10/13
+12/13
+428
+cos[ALFA]=12/13
+10
+9
+K¥t [ALFA] jest ostry i tg[ALFA]=512. Oblicz cos[ALFA]
+-
+-
+-
+-
+35
+c
+11
+9
+Przyprostok¥tne trójk¥ta prostok¥tnego maj¥ dˆugości 3 i 9. Sinus najmniejszego k¥ta tego trójk¥ta jest równy
+(3*10)/10
+1/3
+(10^1/2)/10
+(10^1/2)/30
+1218
+1/3
+12
+9
+K¥t [ALFA] jest ostry i tg[ALFA]=2. Oblicz (sin[ALFA]-cos[ALFA])/(sin[ALFA]+cos[ALFA])
+-
+-
+-
+-
+72
+c
+13
+9
+Przyprostok¥tne trójk¥ta prostok¥tnego maj¥ dˆugości 8 i 6. Sinus wi©kszego z k¥tów ostrych tego trójk¥ta jest równy
+3/5
+3/4
+4/58
+4/3
+212
+c
+14
+9
+W trójk¥cie równoramiennym wysokość jest dwa razy dˆuższa od podstawy. Wynika st¥d, że sinus k¥ta przy podstawie wynosi
+(17^1/2)/17
+(5^1/2)/5
+(4*17^1/2)/17
+1/17
+738
+c
+15
+9
+Liczba sin60[.]+cos60[.] jest równa
+1
+-(3^1/2)/2
+(3^1/2+1)/2
+(2*3^1/2-3)/6
+313
+d
+16
+9
+Liczba tg30[.]-sin30[.] jest równa
+3^1/2-1
+-(3^1/2)/6
+(3^1/2-1)/6
+(2*3^1/2-3)/6
+413
+a
+17
+9
+K¥t [ALFA] jest ostry i sin[ALFA]=3/4. Wartość wyrażenia 2-cos^2[ALFA] jest równa
+25/16
+3/2
+17/16
+31/16
+285
+c
+18
+9
+K¥t [ALFA] jest ostry i tg[ALFA]=1. Wówczas
+[ALFA]<30[.]
+[ALFA]=30[.]
+[ALFA]=45[.]
+[ALFA]>45[.]
+686
+d
+19
+9
+K¥t [ALFA] jest ostry i sin[ALFA]=0,75. Wówczas
+[ALFA]<30[.]
+[ALFA]=30[.]
+[ALFA]=45[.]
+[ALFA]>45[.]
+482
+d
+20
+9
+K¥t [ALFA] jest ostry oraz sin[ALFA]=cos47[.]. Wtedy miara k¥ta [ALFA] jest równa
+6[.]
+33[.]
+47[.]
+43[.]
+124
+a
+21
+9
+K¥t [ALFA] jest k¥tem ostrym i tg[ALFA]=1/2. Jaki warunek speˆnia k¥t [ALFA]
+[ALFA]<30[.]
+[ALFA]=30[.]
+[ALFA]=60[.]
+[ALFA]>60[.]
+314
+b
+22
+9
+W trójk¥cie prostok¥tnym ABC odcinek AB jest przeciwprostok¥tn¥ i |AB|=13 oraz |BC|=12 . Wówczas sinus k¥ta ABC jest równy
+12/13
+5/13
+5/12
+13/12
+998
+a
+23
+9
+K¥t [ALFA] jest ostry i sin[ALFA]=(3^1/2)/2. Wartość wyrażenia cos^2[ALFA]-2 jest równa
+-7/4
+-1/4
+1/2
+(3^1/2)/2
+50
+c
+24
+9
+Wartość wyrażenia sin^2 23[.]+sin^2 67[.] jest równa:
+2*sin^2 23[.]
+2*sin^2 67[.]
+1
+0
+1011
+0
+25
+9
+K¥t [ALFA] jest ostry i sin[ALFA]=(3^1/2)/2. Oblicz wartość wyrażenia sin^2[ALFA]-3cos^2[ALFA].
+-
+-
+-
+-
+493
+3+2/15
+26
+9
+K¥t [ALFA] jest ostry i sin[ALFA]=1/4. Oblicz 3+2tg^2[ALFA]
+-
+-
+-
+-
+89
+2+1/4
+27
+9
+Oblicz wartość wyrażenia tg^2[ALFA]-3cos^2[ALFA], jeżeli sin[ALFA]=(3^1/2)/2 i [ALFA] jest k¥tem ostrym
+-
+-
+-
+-
+23
+[ALFA]=60[.]
+28
+9
+K¥ty ostre [ALFA] i [BETA] trójk¥ta prostok¥tnego speˆniaj¥ warunek sin^2[ALFA]+sin^2[BETA]+tg^2[ALFA]=4, Wyznacz miar© k¥ta [ALFA]
+-
+-
+-
+-
+160
+2/5
+29
+9
+W trójk¥cie prostok¥tnym, w którym przyprostok¥tne maj¥ dˆugości 2 i 4, jeden z k¥tów ostrych ma miar© [ALFA]. Oblicz sin[ALFA]*cos[ALFA]
+-
+-
+-
+-
+161
+47/15
+30
+9
+K¥t [ALFA] jest ostry i sin[ALFA]=1/4. Oblicz 3+2tg^2[ALFA]
+-
+-
+-
+-
+1214
+b
+31
+9
+K¥t [ALFA] jest ostry i sin[ALFA]=(3^1/2)/3. Wtedy wartość wyrażenia 2cos^2[ALFA]-1 jest równa
+0
+1/3
+5/9
+1
+1281
+c
+32
+9
+W trójk¥cie prostok¥tnym dˆugość jednej z przyprostok¥tnych jest równa 7, zaś dˆugość przeciwprostok¥tnej jest równa 8. Zatem tangens mniejszego k¥ta ostrego w tym trójk¥cie jest równy
+15/7
+8/15
+(15^1/2)/7
+(7*15^1/2)/15
+1291
+cos[ALFA]=(5^1/2)/5
+33
+9
+Maszt telekomunikacyjny rzuca cieä, który jest 2 razy krótszy niż wysokość masztu. Oblicz cosinus k¥ta, pod jakim padaj¥ promienie sˆoneczne
+-
+-
+-
+-
+1319
+a
+34
+9
+W trójk¥cie prostok¥tnym o bokach 6,8,10, tangens najmniejszego k¥ta jest równy
+3/4
+1+1/3
+3/5
+4/5
+1352
+a
+35
+9
+W trójk¥cie prostok¥tnym najdˆuższy bok ma dˆugość 25, a najkrótszy 7. Tangens najmniejszego k¥ta tego trójk¥ta jest równy
+7/24
+24/7
+7/25
+24/25
+1386
+a
+36
+9
+Jeżeli [ALFA] jest k¥tem ostrym oraz tg[ALFA]=25, to wartość wyrażenia (3cos[ALFA]-2sin[ALFA])/(sin[ALFA]-5cos[ALFA]) jest równa
+-11/23
+24/5
+-23/11
+5/24
+1432
+c
+37
+9
+K¥t [ALFA] jest ostry i speˆniona jest równość 3tg[ALFA]=2. Wtedy wartość wyrażenia sin[ALFA]+cos[ALFA] jest równa
+1
+(5*13^1/2)/26
+(5*13^1/2)/13
+5^1/2
+1446
+2/5
+38
+9
+K¥t [ALFA] jest ostry oraz (4/sin^2[ALFA])+(4/cos2[ALFA])=25. Oblicz wartość wyrażenia sin[ALFA]*cos[ALFA].
+-
+-
+-
+-
+397
+sin[ALFA]=(22^1/2)23
+39
+9
+Podstaw¥ ostrosˆupa ABCDS jest romb ABCD o boku dˆugości 4. K¥t ABC rombu ma miar© 120[.] oraz |AS|=|CS|=10 i |BS|=|DS|. Oblicz sinus k¥ta nachylenia kraw©dzi BS do pˆaszczyzny podstawy ostrosˆupa.
+-
+-
+-
+-
+1283
+b
+1
+10
+Pole koˆa wpisanego w trójk¥t równoboczny jest równe (16/3)?. Obwód tego trójk¥ta jest równy
+12*3^1/2
+24
+12
+36
+1322
+a
+2
+10
+Pole koˆa opisanego na trójk¥cie równobocznym o wysokości 9 jest równe
+36[pi]
+9[pi]
+18*3^1/2*[pi]
+13[pi]
+1343
+c
+3
+10
+Obwód trójk¥ta równobocznego o polu 3^1/2 jest równy
+1
+3
+6
+2
+1433
+c
+4
+10
+Promieä okr©gu opisanego na trójk¥cie równobocznym jest równy 8. Wysokość tego trójk¥ta jest równa
+4*3^1/2
+8*3^1/2
+12
+6
+253
+c
+5
+10
+Dˆugość boku trójk¥ta równobocznego jest równa 24*3^1/2. Promieä okr©gu wpisanego w ten trójk¥t jest równy
+36
+18
+12
+6
+946
+a
+6
+10
+Okr¥g opisany na trójk¥cie równobocznym ma promieä 12. Wysokość tego trójk¥ta jest równa
+18
+20
+22
+24
+5
+c
+7
+10
+Promieä okr©gu opisanego na trójk¥cie równobocznym jest równy (16*3^1/2)/3. Obwód tego trójk¥ta jest równy
+16
+32
+48
+64
+71
+a
+8
+10
+Pole koˆa opisanego na trójk¥cie równobocznym o wysokości 9 jest równe
+36[pi]
+9[pi]
+18*3^1/2 [pi]
+12[pi]
+740
+a
+9
+10
+W trójk¥cie równobocznym ABC dana jest wysokość |CD|=3. —rednica okr©gu opisanego na tym trójk¥cie ma dˆugość
+4
+(2*3^1/2)/3
+(4*3^1/2)/3
+2
+384
+c
+10
+10
+Dany jest trójk¥t prostok¥tny o przyprostok¥tnych 5 i 12. Promieä okr©gu opisanego na tym trójk¥cie jest równy
+12
+8,5
+6,5
+5
+162
+72[.], 72[.], 36[.]
+11
+10
+Punkt D leży na boku BC trójk¥ta równoramiennego ABC, w którym |AC|=|BC|. Odcinek AD dzieli trójk¥t ABC na dwa trójk¥ty równoramienne w taki sposób, że |AB|=|AD|=|CD|. Oblicz miary k¥tów trójk¥ta ABC [#IMG]
+-
+-
+-
+-
+741
+a
+12
+10
+W trójk¥cie prostok¥tnym dwa dˆuższe boki maj¥ dˆugości 5^1/2 i 3. Obwód tego trójk¥ta jest równy
+5+5^1/2
+5*5^1/2
+5*2*5^1/2
+30^1/2
+315
+b
+13
+10
+W trójk¥cie równoramiennym ABC dane s¥ |AC|=|BC|=5 oraz wysokość |CD|=2. Podstawa AB tego trójk¥ta ma dˆugość
+6
+2*21^1/2
+2*29^1/2
+14
+316
+d
+14
+10
+W trójk¥cie prostok¥tnym dwa dˆuższe boki maj¥ dˆugości 5 i 7. Obwód tego trójk¥ta jest równy
+16*6^1/2
+14*6^1/2
+12+4*6^1/2
+12+2*6^1/2
+163
+60
+15
+10
+Oblicz pole trójk¥ta równoramiennego ABC, w którym |AB|=24 i |AC|=|BC|=13
+-
+-
+-
+-
+164
+10
+16
+10
+Liczby 4,10,c s¥ dˆugościami boków trójk¥ta równoramiennego. Oblicz c
+-
+-
+-
+-
+165
+6 lub 10
+17
+10
+Liczby 6,10,c s¥ dˆugościami boków trójk¥ta równoramiennego. Oblicz c
+-
+-
+-
+-
+166
+2*34^1/2 lub 8
+18
+10
+Liczby 6,10,c s¥ dˆugościami boków trójk¥ta prostok¥tnego. Oblicz c
+-
+-
+-
+-
+167
+5 lub 6 
+19
+10
+Liczby x-1,x,5 s¥ dˆugościami boków trójk¥ta równoramiennego. Oblicz x
+-
+-
+-
+-
+19
+a
+20
+10
+Punkt S jest środkiem wysokości CD trójk¥ta równoramiennego ABC, w którym |AC|=|BC|=5 oraz |CD|=4 (zobacz rysunek), Odlegˆość punktu S od ramienia tego trójk¥ta jest równa [#IMG]
+6/5
+3/2
+12/5
+5/2
+1279
+B
+21
+10
+W trójk¥cie równoramiennym ABC o wysokościach CD i AE podstawa AB ma dˆugość 8 cm, a odcinek BE ma dˆugość 3 cm. Dˆugość odcinka AC jest równa [#IMG]
+6 cm
+32/3 cm
+28/3 cm
+33/2 cm
+1282
+b
+22
+10
+Dˆugość odcinka BD w trójk¥cie prostok¥tnym ABC jest równa [#IMG]
+(9*3^1/2)/4
+4
+4*3^1/2
+4*2^1/2
+1293
+-1/3x+1/3
+23
+10
+Dany jest trójk¥t ABC, gdzie A=(-3,-2), B=(1,-1), C=(-1,4). Wyznacz równanie symetralnej boku AC tego trójk¥ta
+-
+-
+-
+-
+168
+|BD|=16
+24
+10
+Obwód czworok¥ta wypukˆego ABCD jest równy 50 cm. Obwód trójk¥ta ABD jest równy 46 cm, a obwód trójk¥ta BCD jest równy 36 cm. Oblicz dˆugość przek¥tnej BD
+-
+-
+-
+-
+10
+a
+25
+10
+W trapezie równoramiennym, który nie jest równolegˆobokiem, k¥ty przy ramieniu różni¥ si© o 50[.]. K¥t przy krótszej podstawie tego trapezu jest równy
+115[.]
+120[.]
+125[.]
+130[.]
+54
+a
+26
+10
+W trapezie miary k¥tów ostrych s¥ równe 30[.] i 60[.]. Wówczas stosunek dˆugości krótszego ramienia do dˆuższego jest równy
+(3^1/2)/3
+1/3
+(2^1/2)/2
+1/2
+352
+b
+27
+10
+Rysunek przedstawia trapez prostok¥tny i dˆugości trzech jego boków. Obwód tego trapezu jest równy [#IMG]
+43
+46
+48
+50
+127
+b
+28
+10
+Różnica miar k¥tów wewn©trznych przy ramieniu trapezu równoramiennego, który nie jest równolegˆobokiem, jest równa 40[.]. Miara k¥ta przy krótszej podstawie jest równa.
+120[.]
+110[.]
+80[.]
+70[.]
+455
+c
+29
+10
+Trapez jest prostok¥tny. Trójk¥ty podobne ABD i CBD s¥ równoramienne. Obwód trapezu jest równy [#IMG]
+4+2*2^1/2
+2*2^1/2
+4+2^1/2
+4
+296
+p=96
+30
+10
+Podstawy trapezu prostok¥tnego maj¥ dˆugości 6 i 10 oraz tangens jego k¥ta ostrego jest równy 3. Oblicz pole tego trapezu
+-
+-
+-
+-
+430
+Obw=15+3*3^1/2
+31
+10
+W trapezie prostok¥tnym krótsza przek¥tna dzieli go na trójk¥t prostok¥tny i trójk¥t równoboczny. Dˆuższa podstawa trapezu jest równa 6. Oblicz obwód tego trapezu.
+-
+-
+-
+-
+722
+p=72
+32
+10
+Podstawy trapezu równoramiennego maj¥ dˆugości 5 i 13 oraz tangens k¥ta ostrego jest równy 2. Oblicz pole tego trapezu
+-
+-
+-
+-
+391
+p=96
+33
+10
+Podstawy trapezu prostok¥tnego maj¥ dˆugości 6 i 10 oraz tangens k¥ta ostrego jest równy 3. Oblicz pole tego trapezu
+-
+-
+-
+-
+1323
+c
+34
+10
+W trapezie prostok¥tnym k¥t ostry ma miar© 60[.], a podstawy maj¥ dˆugość 6 i 9. Wysokość tego trapezu jest równa
+6
+2*3^1/2
+3*3^1/2
+(3*3^1/2)/2
+1388
+b
+35
+10
+Wysokość trapezu równoramiennego o k¥cie ostrym 60[.] i ramieniu dˆugości 2*3^1/2 jest równa
+3^1/2
+3
+3*3^1/2
+2
+775
+a
+36
+10
+W równolegˆoboku k¥t rozwarty jest cztery razy wi©kszy od k¥ta ostrego [ALFA]. Zatem:
+[ALFA]=36[.]
+[ALFA]=45[.]
+[ALFA]=60[.]
+[ALFA]=72[.]
+684
+a
+37
+10
+Różnica miar dwóch s¥siednich k¥tów wewn©trznych równolegˆoboku jest równa 30[.]. K¥t rozwarty tego równolegˆoboku jest równy
+105[.]
+115[.]
+125[.]
+135[.]
+464
+(10*3^1/2)/3
+38
+10
+Przek¥tna równolegˆoboku ma dˆugość 10 cm i tworzy z krótszym bokiem k¥t prosty, a z dˆuższym bokiem k¥t 30[.]. Oblicz dˆugość krótszego boku tego równolegˆoboku
+-
+-
+-
+-
+1208
+a
+39
+10
+Pole równolegˆoboku o bokach dˆugości 4 i 12 oraz k¥cie ostrym 30[.] jest równe
+24
+12*3^1/2
+12
+6*3^1/2
+774
+b
+40
+10
+W rombie bok i krótsza przek¥tna maj¥ tak¥ sam¥ dˆugość, równ¥ a. Wówczas dˆuższa przek¥tna ma dˆugość
+a*2^1/2
+a*3^1/2
+2a
+(a*3^1/2)/2
+354
+b
+41
+10
+Bok rombu ma dˆugość 8, a k¥t ostry ma miar© 60[.]. Wysokość tego rombu jest wi©c równa [#IMG]
+2*3^1/2
+4*3^1/2
+6*3^1/2
+8*3^1/2
+488
+c
+42
+10
+Dany jest romb o boku dˆugości 4 i k¥cie ostrym 60[.]. Pole tego rombu jest równe
+16*3^1/2
+16
+8*3^1/2
+8
+300
+h=5*2^1/2
+43
+10
+Dˆugość promienia r okr©gu opisanego na kwadracie jest równa 2*3^1/2. Dˆugość boku tego kwadratu ma wartość
+-
+-
+-
+-
+224
+b
+45
+10
+Na dwóch przeciwlegˆych bokach kwadratu o polu P zaznaczono punkty A i B, przy czym punkt A jest środkiem boku, zaś punkt B dzieli bok w stosunku 3:1, jak na rysunku obok. Pole zamalowanego czworok¥ta jest równe [#IMG]
+2P/3
+5P/8
+3P/4
+3P/5
+743
+c
+46
+10
+Obwód kwadratu wpisanego w okr¥g o promieniu 11*2^1/2 jest równy
+22
+44
+88
+121*2^1/2
+414
+a
+47
+10
+Okr¥g opisany na kwadracie ma promieä 4. Dˆugość boku tego kwadratu jest równa
+4*2^1/2
+2*2^1/2
+8
+4
+318
+b
+48
+10
+Pole kwadratu wpisanego w okr¥g o promieniu 5 jest równe
+25
+50
+75
+100
+129
+b
+49
+10
+Pole kwadratu wpisanego w okr¥g o promieniu 4 cm jest równe
+64 cm^2
+32 cm^2
+16 cm^2
+8 cm^2
+188
+-
+50
+10
+Czworok¥ty ABCD i APQR s¥ kwadratami. Udowodnij, że |BP|=|DR| [#IMG]
+-
+-
+-
+-
+999
+a
+51
+10
+—rednice AB i CD okr©gu o środku S przecinaj¥ si© pod k¥tem 50[.] (tak jak na rysunku). Miara k¥ta [ALPFA] jest równa [#IMG]
+25[.]
+30[.]
+40[.]
+50[.]
+803
+b
+52
+10
+Wierzchoˆki trójk¥ta ABC leż¥ na okr©gu i środek O okr©gu leży wewn¥trz trójk¥ta. Jeśli k¥t ABO ma miar© 20[.], to k¥t ACB ma miar©:
+70[.]
+40[.]
+20[.]
+10[.]
+773
+b
+53
+10
+Punkty A i B należ¥ do okr©gu o środku w punkcie O i promieniu 3. Wiadomo, że |[K¤T]AOB|=150[.]. Ci©ciwa AB dzieli okr¥g na dwa ˆuki, z których wi©kszy ma dˆugość
+2,5[pi]
+3,5[pi]
+3,75[pi]
+5,25[pi]
+278
+c
+54
+10
+Ci©ciwa okr©gu ma dˆugość 8 cm i jest oddalona od jego środka o 3 cm. Promieä tego okr©gu ma dˆugość
+3 cm
+4 cm
+5 cm
+8 cm
+355
+c
+55
+10
+Punkty A,B,C,D i E leż¥ na okr©gu o środku S i dziel¥ ten okr¥g na pi©ć ˆuków równej dˆugości (zobacz rysunek). Wówczas miara k¥ta ostrego ? mi©dzy ci©ciw¥ AB i styczn¥ do tego okr©gu w punkcie A jest równa [#IMG]
+[ALFA]=18[.]
+[ALFA]=30[.]
+[ALFA]=36[.]
+[ALFA]=54[.]
+385
+b
+56
+10
+Dane s¥ dwa okr©gi o promieniach 12 i 17. Mniejszy okr¥g przechodzi przez środek wi©kszego okr©gu. Odlegˆość mi©dzy środkami tych okr©gów jest równa
+5
+12
+17
+29
+119
+c
+57
+10
+Punkty A=(-1,3) i C=(7,9) s¥ przeciwlegˆymi wierzchoˆkami prostok¥ta ABCD. Promieä okr©gu opisanego na tym prostok¥cie jest równy
+10
+6*2^1/2
+5
+3*2^1/2
+26
+[#IMG]
+58
+10
+Na odcinku AB wybrano punkt C, a nast©pnie zbudowano trójk¥ty równoboczne ACD i CBE tak, że wierzchoˆki D i E leż¥ po tej samej stronie prostej AB. Okr©gi opisane na tych trójk¥tach przecinaj¥ si© w punktach C i P (zobacz rysunek). Udowodnij, że miara k¥ta APB jest równa 120[.] [#IMG]
+-
+-
+-
+-
+726
+65[.]
+59
+10
+Oblicz k¥t [ALFA] mi©dzy ci©ciw¥ PQ, a styczn¥ do okr©gu w punkcie P [#IMG]
+-
+-
+-
+-
+1280
+C
+60
+10
+W czworok¥cie OBMA k¥ty wewn©trzne AOB i AMB maj¥ równe miary. Wówczas k¥t [ALFA] ma miar© [#IMG]
+160[.]
+120[.]
+240[.]
+210[.]
+1292
+r1=5; r2=3
+61
+10
+Dwa okr©gi s¥ styczne zewn©trznie. Odlegˆość ich środków jest równa 8 cm. Gdyby te okr©gi byˆy styczne wewn©trznie, to odlegˆość ich środków byˆaby równa 2 cm. Oblicz dˆugości promieni tych okr©gów.
+-
+-
+-
+-
+1320
+b
+62
+10
+Miara k¥ta [ALFA], zaznaczonego na rysunku, jest równa [#IMG]
+35[.]
+55[.]
+70[.]
+110[.]
+1346
+b
+63
+10
+Na trójk¥cie równoramiennym ABC, w którym |AC|=|BC| opisano okr¥g o środku O. Prosta k jest styczna do tego okr©gu w punkcie B i |[K¤T]BOC|=140[.]. K¥t [ALFA] ma miar© [#IMG]
+70[.]
+40[.]
+90[.]
+50[.]
+742
+c
+64
+10
+Odcinki AB i CD s¥ równolegˆe, trójk¥t ABE jest równoboczny i |AB|=5 oraz |BD|=2 (zobacz rysunek). Obwód czworok¥ta ACDB wynosi [#IMG]
+12
+14
+16
+18
+351
+b
+65
+10
+Proste AD i BC s¥ równolegˆe. Dˆugości odcinków ED, DC oraz AB podane s¥ na rysunku. Dˆugość odcinka EA jest równa [#IMG]
+4
+8
+9
+10
+128
+c
+66
+10
+Odcinki BC i DE s¥ równolegˆe. Dˆugości odcinków AC,CE i BC s¥ podane na rysunku. Dˆugość odcinka DE jest równa [#IMG]
+6
+8
+10
+12
+1321
+d
+67
+10
+Dˆugość odcinka AB, równolegˆego do odcinka CD, jest równa [#IMG]
+6
+3
+2
+4
+1384
+c
+68
+10
+Jeżeli trójk¥ty ABC i A'B'C' s¥ podobne, a ich pola s¥, odpowiednio, równe 25 cm^2 i 50 cm^2, to skala podobieästwa (A'B')/AB jest równa
+2
+1/2
+2^1/2
+(2^1/2)/2
+1435
+b
+69
+10
+Odcinki BC i DE s¥ równolegˆe i |AE|=4, |DE|=3 (zobacz rysunek). Punkt D jest środkiem odcinka AB. Dˆugość odcinka BC jest równa [#IMG]
+4
+6
+8
+16
+948
+a
+70
+10
+Punkty A,B,C,D,E,F,G,H,I,J dziel¥ okr¥g o środku S na dziesi©ć równych ˆuków. Oblicz miar© k¥ta wpisanego BGE zaznaczonego na rysunku [#IMG]
+54[.]
+72[.]
+60[.]
+45[.]
+252
+c
+71
+10
+Punkty A, B i C leż¥ na okr©gu o środku S (zobacz rysunek). Miara zaznaczonego k¥ta wpisanego ACB jest równa [#IMG]
+65[.]
+100[.]
+115[.]
+130[.]
+279
+d
+72
+10
+Punkt O jest środkiem okr©gu. K¥t wpisany BAD ma miar© [#IMG]
+150[.]
+120[.]
+115[.]
+85[.]
+744
+a
+73
+10
+Miara zaznaczonego na rysunku k¥ta [ALFA] jest równa [#IMG]
+50[.]
+60[.]
+100[.]
+130[.]
+417
+a
+74
+10
+Punkty A,B,C leż¥ce na okr©gu o środku S s¥ wierzchoˆkami trójk¥ta równobocznego. Miara zaznaczonego na rysunku k¥ta środkowego ASB jest równa [#IMG]
+120[.]
+90[.]
+60[.]
+30[.]
+319
+c
+75
+10
+Punkty A,B,C,D dziel¥ okr¥g na 4 równe ˆuki. Miara zaznaczonego na rysunku k¥ta wpisanego ACD jest równa [#IMG]
+90[.]
+60[.]
+45[.]
+30[.]
+125
+b
+76
+10
+K¥t mi©dzy ci©ciw¥ AB a styczn¥ do okr©gu w punkcie A ma miar© [ALFA]=62[.]. Wówczas [#IMG]
+[BETA]=118[.] 
+[BETA]=124[.] 
+[BETA]=138[.] 
+[BETA]=152[.] 
+126
+c
+77
+10
+K¥t środkowy i k¥t wpisany s¥ oparte na tym samym ˆuku. Suma ich miar jest równa 180[.]. Jaka jest miara k¥ta środkowego
+60[.]
+90[.]
+120[.]
+135[.]
+496
+150
+78
+10
+Punkty A i B leż¥ na okr©gu o środku O i dziel¥ ten okr¥g na dwa ˆuki, których stosunek dˆugości jest równy 7:5. Oblicz miar© k¥ta środkowego opartego na krótszym ˆuku. [#IMG]
+-
+-
+-
+-
+1206
+b
+79
+10
+Punkt O jest środkiem okr©gu o średnicy AB (tak jak na rysunku). K¥t ? ma miar© [#IMG]
+40[.]
+50[.]
+60[.]
+80[.]
+1389
+a
+80
+10
+K¥t środkowy oparty na ˆuku, którego dˆugość jest równa 4/9 dˆugości okr©gu, ma miar©
+160[.]
+80[.]
+40[.]
+20[.]
+1434
+c
+81
+10
+Punkty A, B i C leż¥ na okr©gu o środku O (zobacz rysunek). Zaznaczony na rysunku wypukˆy k¥t środkowy AOB ma miar© [#IMG]
+60[.]
+100[.]
+120[.]
+140[.]
+412
+b
+82
+10
+Liczba przek¥tnych siedmiok¥ta foremnego jest równa
+7
+14
+21
+28
+415
+b
+83
+10
+Podstawa trójk¥ta równoramiennego ma dˆugość 6, a rami© ma dˆugość 5. Wysokość opuszczona na podstaw© ma dˆugość
+3
+4
+34^1/2
+61^1/2
+416
+a
+84
+10
+Odcinki AB i DE s¥ równolegˆe. Dˆugości odcinków CD,DE i AB s¥ odpowiednio równe 1, 3 i 9. Dˆugość odcinka AD jest równa [#IMG]
+2
+3
+5
+6
+418
+c
+85
+10
+Latawiec ma wymiary podane na rysunku. Powierzchnia zacieniowanego trójk¥ta jest równa [#IMG]
+3200 cm^2
+6400 cm^2
+1600 cm^2
+800 cm^2
+317
+d
+86
+10
+Odcinki AB i CD s¥ równolegˆe i |AB|=5,|AC|=2,|CD|=7 (zobacz rysunek). Dˆugość odcinka AE jest równa [#IMG]
+10/7
+14/5
+3
+5
+383
+a
+87
+10
+Pole prostok¥ta jest równe 40. Stosunek dˆugości jego boków jest równy 2:5. Dˆuższy bok tego prostok¥ta jest równy
+10
+8
+7
+6
+1202
+c
+88
+10
+Z prostok¥ta ABCD o obwodzie 30 wyci©to trójk¥t równoboczny AOD o obwodzie 15 (tak jak na rysunku). Obwód zacieniowanej figury jest równy [#IMG]
+25
+30
+35
+40
+1016
+45;60;75
+89
+10
+Punkt S jest środkiem okr©gu opisanego na trójk¥cie ostrok¥tnym ABC. K¥t ACS jest trzy razy wi©kszy od k¥ta BAS, a k¥t CBS jest dwa razy wi©kszy od k¥ta BAS. Oblicz k¥ty trójk¥ta ABC [#IMG]
+-
+-
+-
+-
+1207
+c
+90
+10
+Najdˆuższa przek¥tna sześciok¥ta foremnego ma dˆugość 8. Wówczas pole koˆa opisanego na tym sześciok¥cie jest równe
+4[PI]
+8[PI]
+16[PI]
+64[PI]
+1347
+b
+91
+10
+Proste k i l s¥ równolegˆe. Miara k¥ta [ALFA] wynosi [#IMG]
+60[.]
+65[.]
+35[.]
+70[.]
+1366
+133^1/2
+92
+10
+Oblicz dˆugość odcinka x zaznaczonego na rysunku [#IMG]
+-
+-
+-
+-
+785
+70; 65; 45;
+93
+10
+Punkty A, B i C okr©gu dziel¥ ten okr¥g na trzy ˆuki, których dˆugości pozostaj¥ w stosunku |AB|:|BC|:|AC|=3:4:5, Oblicz miary k¥tów [ALFA], [BETA], [GAMMA] trójk¥ta ABC [#IMG]
+-
+-
+-
+-
+1336
+p=120
+94
+10
+Trójk¥ty prostok¥tne ABC i DEF s¥ podobne. Przyprostok¥tne trójk¥ta ABC maj¥ dˆugości 5 i 12, a przeciwprostok¥tna trójk¥taDEF ma dˆugość 26. Wyznacz pole trójk¥ta DEF.
+-
+-
+-
+-
+465
+r=-12 lub r=2
+95
+10
+Okr¥g wpisany w trójk¥t prostok¥tny ABC jest styczny do przeciwprostok¥tnej AB w punkcie K. Wiadomo, że |AK|=4 i |KB|=6. Oblicz promieä tego okr©gu [#IMG]
+-
+-
+-
+-
+1406
+p=4+(19*3^1/2)/6
+96
+10
+K¥t CAB trójk¥ta prostok¥tnego ACB ma miar© 30[.]. Pole kwadratu DEFG, wpisanego w ten trójk¥t (zobacz rysunek), jest równe 4. Oblicz pole trójk¥ta ACB [#IMG]
+-
+-
+-
+-
+27
+p=(8*5^1/2)/5
+97
+10
+Promieä okr©gu opisanego na trójk¥cie prostok¥tnym jest równy 2*5^1/2. Jedna z przyprostok¥tnych tego trójk¥ta jest o 4 dˆuższa od drugiej przyprostok¥tnej. Oblicz wysokość tego trójk¥ta opuszczon¥ na przeciwprostok¥tn¥
+-
+-
+-
+-
+1351
+c
+1
+11
+Obrazem punktu A=(4,-5) w symetrii wzgl©dem osi Ox jest punkt
+(-4;-5)
+(-4;5)
+(4;5)
+(4;-5)
+325
+a
+2
+11
+Punkt A ma wspóˆrz©dne (5,2012). Punkt B jest symetryczny do punktu A wzgl©dem osi Ox, a punkt C jest symetryczny do punktu B wzgl©dem osi Oy . Punkt C ma wspóˆrz©dne
+(-5;-2012)
+(-2012;-5)
+(-5;2012)
+(-2012;5)
+481
+c
+3
+11
+Dane s¥ punkty A=(1,-4) i B=(2,3). Odcinek AB ma dˆugość
+1
+4*3^1/2
+5*2^1/2
+7
+9
+a
+4
+11
+Na okr©gu o środku S=(-6,1) leży punkt A=(-2,4). Promieä tego okr©gu jest równy
+5
+7
+73^1/2
+7^1/2
+255
+b
+5
+11
+Punkty B=(-2,4) i C=(5,1) s¥ dwoma s¥siednimi wierzchoˆkami kwadratu ABCD. Pole tego kwadratu jest równe
+74
+58
+40
+29
+119
+c
+6
+11
+Punkty A=(-1,3) i C=(7,9) s¥ przeciwlegˆymi wierzchoˆkami prostok¥ta ABCD. Promieä okr©gu opisanego na tym prostok¥cie jest równy
+10
+6*2^1/2
+5
+3*2^1/2
+1325
+b
+7
+11
+Dˆugość odcinka AB, którego wierzchoˆki maj¥ wspóˆrz©dne A=(-3,-2) i B=(-1,4), jest równa
+2*5^1/2
+2*10^1/2
+4*2^1/2
+41^1/2
+1350
+c
+8
+11
+Punkty A=(-1,2) i B=(2,6) s¥ wierzchoˆkami kwadratu ABCD. Pole tego kwadratu jest równe
+17
+65
+25
+7
+1002
+c
+9
+11
+Punkt S=(-4,7) jest środkiem odcinka PQ, gdzie Q=(17,12). Zatem punkt P ma wspóˆrz©dne
+p=(2;-25)
+p=(38;17)
+p=(-25;2)
+p=(-12;4)
+808
+a
+10
+11
+Punkt S=(3,-1) jest środkiem odcinka AB i A=(-3,-5). Punkt B ma wspóˆrz©dne
+(9;3)
+(9;-3)
+(-9;-3)
+(-9;3)
+1285
+c
+11
+11
+Punkty A=(-2,4) i C=(-6,2) s¥ przeciwlegˆymi wierzchoˆkami kwadratu ABCD. Zatem promieä okr©gu opisanego na tym kwadracie jest równy
+10
+2
+5^1/2
+10^1/2
+288
+a
+12
+11
+Punkt S=(2,7) jest środkiem odcinka AB, w którym A=(-1,3). Punkt B ma wspóˆrz©dne
+b=(5;11)
+b=(1/2;2)
+b=(-3/2;-5)
+b=(3;11)
+1204
+b
+13
+11
+Punkt S=(4,1) jest środkiem odcinka AB, gdzie A=(a,0) i B=(a+3, 2). Zatem
+a=0
+a=1/2
+a=2
+a=5/2
+1438
+c
+14
+11
+Punkty A=(13,-12) i C=(15,8) s¥ przeciwlegˆymi wierzchoˆkami kwadratu ABCD. Przek¥tne tego kwadratu przecinaj¥ si© w punkcie
+s=(2;-20)
+s=(14;10)
+s=(14;-2)
+s=(28;-4)
+453
+d
+15
+11
+Punkty A=(-2,-1) i B=(2,2) s¥ wierzchoˆkami trójk¥ta równobocznego ABC. Wysokość tego trójk¥ta jest równa
+2,5
+2*3^1/2
+5*3^1/2
+2,5*^1/2
+332
+y=-1/2x-6
+16
+11
+Wyznacz równanie symetralnej odcinka o koäcach A=(-2,2) i B=(2,10)
+-
+-
+-
+-
+159
+y=2x-4
+17
+11
+Wyznacz równanie prostej zawieraj¥cej środkow¥ CD trójk¥ta ABC, którego wierzchoˆkami s¥ punkty A=(-2,-1), B=(6,1), C=(7,10)
+-
+-
+-
+-
+22
+y=4x+15/2
+18
+11
+Punkty A=(-3,4) i C=(1,3) s¥ wierzchoˆkami kwadratu ABCD. Wyznacz równanie prostej zawieraj¥cej przek¥tn¥ BD tego kwadratu
+-
+-
+-
+-
+1001
+d
+19
+11
+Punkty A=(-1,2) i B=(5,-2) s¥ dwoma s¥siednimi wierzchoˆkami rombu ABCD. Obwód tego rombu jest równy
+13^1/2
+13
+676
+8*13^1/2
+1380
+d
+20
+11
+Punkt C=(0,2) jest wierzchoˆkiem trapezu ABCD, którego podstawa AB jest zawarta w prostej o równaniu y=2x-4. Wskaż równanie prostej zawieraj¥cej podstaw© CD
+y=12x+2
+y=-2x+2
+y=-12x+2
+y=2x+2
+1335
+p=(1;7)
+21
+11
+Okr¥g o środku w punkcie S=(-3,4) jest styczny do prostej o równaniu y=-43x+253. Oblicz wspóˆrz©dne punktu styczności
+-
+-
+-
+-
+267
+b=(6,8;3,4)
+22
+11
+Dany jest trójk¥t równoramienny ABC, w którym |AC|=|BC| oraz A=(2,1) i C=(1,9). Podstawa AB tego trójk¥ta jest zawarta w prostej y=12x. Oblicz wspóˆrz©dne wierzchoˆka B
+-
+-
+-
+-
+1223
+24j^2
+23
+11
+Punkty A=(-1,-5),B=(3,-1) i C=(2,4) s¥ kolejnymi wierzchoˆkami równolegˆoboku ABCD. Oblicz pole tego równolegˆoboku
+-
+-
+-
+-
+94
+a'=(2,4;-14,2)
+24
+11
+Wyznacz wspóˆrz©dne punktu A', który jest symetryczny do punktu A=(3,2) wzgl©dem prostej  y=-13x-6
+-
+-
+-
+-
+952
+b
+1
+12
+Obj©tość sześcianu jest równa 27 cm3. Jaka jest suma dˆugości wszystkich kraw©dzi tego sześcianu?
+18cm
+36cm
+24cm
+12cm
+87
+a
+2
+12
+Obj©tość sześcianu, w którym przek¥tna ściany bocznej ma dˆugość (2^1)/4, jest równa
+1/64
+1/16
+16
+64
+768
+b
+3
+12
+Suma dˆugości kraw©dzi sześcianu wynosi 24 cm. Pole powierzchni caˆkowitej tego sześcianu jest równe
+32cm^2
+24cm^2
+16cm^2
+8cm^2
+257
+C
+4
+12
+Obj©tość sześcianu jest równa 64. Pole powierzchni caˆkowitej tego sześcianu jest równe
+512
+384
+96
+16
+747
+a
+5
+12
+Obj©tość sześcianu jest równa 27. Pole powierzchni caˆkowitej tego sześcianu jest równe
+54
+18
+12+3^1/2
+24+3^1/2
+322
+b
+6
+12
+Pole powierzchni jednej ściany sześcianu jest równe 4. Obj©tość tego sześcianu jest równa
+6
+8
+24
+64
+695
+d
+7
+12
+Suma dˆugości wszystkich kraw©dzi sześcianu jest równa 24. Obj©tość tego sześcianu jest równa
+64
+27
+24
+8
+353
+d
+8
+12
+Obj©tość sześcianu jest równa 27. Dˆugość przek¥tnej tego sześcianu jest równa
+2*2^1/2
+3*2^1/2
+2*3^1/2
+3*3^1/2
+1004
+b
+9
+12
+Liczba wszystkich kraw©dzi graniastosˆupa jest o 10 wi©ksza od liczby wszystkich jego ścian bocznych. St¥d wynika, że podstaw¥ tego graniastosˆupa jest
+czworok¥t
+pi©ciok¥t
+sześciok¥t
+dziesi©ciok¥t
+1009
+b
+10
+12
+Obj©tość graniastosˆupa prawidˆowego trójk¥tnego o wysokości 7 jest równa 28+3^1/2? Dˆugość kraw©dzi podstawy tego graniastosˆupa jest równa
+2
+4
+8
+16
+953
+a
+11
+12
+Graniastosˆup ma 15 kraw©dzi. Ile wierzchoˆków ma ten graniastosˆup?
+10
+5
+15
+30
+15
+d
+12
+12
+Wysokość graniastosˆupa prawidˆowego czworok¥tnego jest równa 6, a k¥t nachylenia jego przek¥tnej do pˆaszczyzny podstawy jest równy 60ø. Dˆugość tej przek¥tnej jest równa
+3
+3^1/2
+2*3^1/2
+4*3^1/2
+490
+c
+13
+12
+W graniastosˆupie prawidˆowym trójk¥tnym wszystkie kraw©dzie s¥ tej samej dˆugości. Suma dˆugości wszystkich kraw©dzi jest równa 90. Wtedy pole powierzchni caˆkowitej tego graniastosˆupa jest równe
+300
+300*3^1/2
+300*50^1/2
+300*25^1/2
+456
+d
+14
+12
+Graniastosˆup ma 2n+6 wierzchoˆków. Liczba wszystkich kraw©dzi tego graniastosˆupa jest równa
+n+3
+4n+8
+6n+18
+3n+9
+962
+70
+15
+12
+Dany jest graniastosˆup prawidˆowy trójk¥tny ABCDEF o podstawach ABC i DEF i kraw©dziach bocznych AD, BE i CF. Oblicz pole trójk¥ta ABF wiedz¥c, że |AB|=10 i |CF|=11. Narysuj ten graniastosˆup i zaznacz na nim trójk¥t ABF
+-
+-
+-
+-
+303
+176*3^1/2
+16
+12
+Dany jest graniastosˆup prawidˆowy trójk¥tny ABCDEF o podstawach ABC i DEF i kraw©dziach bocznych AD,BE i CF (zobacz rysunek). Dˆugość kraw©dzi podstawy AB jest równa 8, a pole trójk¥ta ABF jest równe 52. Oblicz obj©tość tego graniastosˆupa [#IMG]
+-
+-
+-
+-
+336
+(32*3^1/2)/3
+17
+12
+W graniastosˆupie prawidˆowym czworok¥tnym ABCDEFGH przek¥tna AC podstawy ma dˆugość 4. K¥t ACE jest równy 60ø. Oblicz obj©tość ostrosˆupa ABCDE przedstawionego na poniższym rysunku
+-
+-
+-
+-
+784
+a) H=4*119^1/2; b) 60J^2
+18
+12
+Przek¥tna graniastosˆupa prawidˆowego czworok¥tnego ABCDA1B1C1D1 ma dˆugość 2*119^1/2, a kraw©d« podstawy - 10*2^1/2. Wyznacz: a) Wysokość graniastosˆupa. b) Pole trójk¥ta EFG, którego wierzchoˆkami s¥ środki trzech kraw©dzi wychodz¥cych z jednego wierzchoˆka podstawy
+-
+-
+-
+-
+1209
+d
+19
+12
+Liczba wszystkich kraw©dzi graniastosˆupa jest równa 24. Wtedy liczba wszystkich jego wierzchoˆków jest równa
+6
+8
+12
+16
+1295
+3/5
+20
+12
+W graniastosˆupie prawidˆowym czworok¥tnym wysokość graniastosˆupa jest o 4 krótsza od przek¥tnej podstawy i o 8 krótsza od przek¥tnej graniastosˆupa. Oblicz sinus k¥ta pomi©dzy przek¥tn¥ graniastosˆupa a pˆaszczyzn¥ podstawy
+-
+-
+-
+-
+1338
+V=(125*6^1/2)/12
+21
+12
+W graniastosˆupie prawidˆowym czworok¥tnym ABCDEFGH poˆ¥czono punkty b©d¥ce środkami kraw©dzi BC, CD, AD i GH. Wyznacz obj©tość powstaˆej bryˆy wiedz¥c, że |DB|=5*2^1/2 i k¥t DBH ma miar© 60[.]
+-
+-
+-
+-
+1358
+c
+22
+12
+Graniastosˆup ma 10 ścian. Liczba wszystkich kraw©dzi tego graniastosˆupa wynosi
+8
+16
+24
+32
+422
+a
+23
+12
+Pole powierzchni caˆkowitej prostopadˆościanu o wymiarach 5ž3ž4 jest równe
+94
+60
+47
+20
+143
+d
+24
+12
+Przek¥tna prostopadˆościanu o wymiarach 2ž3ž5 ma dˆugość
+13^1/2
+29^1/2
+34^1/2
+38^1/2
+461
+[#IMG]
+25
+12
+Wykaż, że przek¥tna prostopadˆościanu o kraw©dziach dˆugości a,b,c ma dˆugość (a^2+b^2+c^2)^1/2
+-
+-
+-
+-
+883
+10x^2+76x+130
+26
+12
+Dany jest prostopadˆościan, którego podstaw¥ jest kwadrat o kraw©dzi dˆugości x+5, a wysokość ma dˆugość 2x+4. Podaj wzór, w postaci wyrażenia algebraicznego, opisuj¥cy pole powierzchni tego prostopadˆościanu. Przeksztaˆć to wyrażenie do najprostszej postaci
+-
+-
+-
+-
+1404
+3*14^1/2
+27
+12
+Pole powierzchni caˆkowitej prostopadˆościanu jest równe 198. Stosunki dˆugości kraw©dzi prostopadˆościanu wychodz¥cych z tego samego wierzchoˆka prostopadˆościanu to 1:2:3. Oblicz dˆugość przek¥tnej tego prostopadˆościanu
+-
+-
+-
+-
+387
+b
+28
+12
+Dany jest sześcian ABCDEFGH. Siatk¥ ostrosˆupa czworok¥tnego ABCDE jest
+[#IMG]
+[#IMG]
+[#IMG]
+[#IMG]
+484
+c
+29
+12
+Kraw©d« sześcianu ma dˆugość 9. Dˆugość przek¥tnej tego sześcianu jest równa
+9^1/3
+9*2^1/2
+9*3^1/2
+9+9*2^1/2
+141
+c
+30
+12
+Przek¥tna sześcianu ma dˆugość 3. Pole powierzchni caˆkowitej tego sześcianu jest równe
+54
+36
+18
+12
+142
+a
+31
+12
+Pole powierzchni caˆkowitej sześcianu jest równe 24 cm^2. Obj©tość tego sześcianu jest równa
+8cm^3
+16cm^3
+27cm^3
+64cm^3
+232
+72,8%
+32
+12
+Dˆugość kraw©dzi sześcianu zwi©kszono o 20%. Oblicz, o ile procent wzrosˆa obj©tość tego sześcianu
+-
+-
+-
+-
+185
+162
+33
+12
+Przek¥tna sześcianu ma dˆugość 9. Oblicz pole powierzchni caˆkowitej tego sześcianu
+-
+-
+-
+-
+187
+(3^1/2)/3
+34
+12
+Oblicz sinus k¥ta mi©dzy przek¥tn¥ sześcianu, a jego pˆaszczyzn¥ podstawy
+-
+-
+-
+-
+95
+96+48*3^1/2
+35
+12
+Kraw©d« sześcianu jest o 4 krótsza od jego przek¥tnej. Oblicz pole powierzchni caˆkowitej tego sześcianu
+-
+-
+-
+-
+1221
+3+3^1/2
+36
+12
+Dˆugość kraw©dzi sześcianu jest o 2 krótsza od dˆugości jego przek¥tnej. Oblicz dˆugość przek¥tnej tego sześcianu
+-
+-
+-
+-
+1363
+c
+37
+12
+Przek¥tna ściany sześcianu ma dˆugość 5*2^1/2. Pole powierzchni tego sześcianu jest równe
+5
+25
+150
+125
+423
+d
+38
+12
+Ostrosˆup ma 18 wierzchoˆków. Liczba wszystkich kraw©dzi tego ostrosˆupa jest równa
+11
+18
+27
+34
+431
+48
+39
+12
+Podstaw¥ ostrosˆupa ABCD jest trójk¥t ABC. Kraw©d« AD jest wysokości¥ ostrosˆupa (zobacz rysunek). Oblicz obj©tość ostrosˆupa ABCD, jeśli wiadomo, że AD=12, BC=6, BD=CD=13. [#IMG]
+-
+-
+-
+-
+397
+(22/23)^1/2
+40
+12
+Podstaw¥ ostrosˆupa ABCDS jest romb ABCD o boku dˆugości 4. K¥t ABC rombu ma miar© 120ø oraz |AS|=|CS|=10 i |BS|=|DS|. Oblicz sinus k¥ta nachylenia kraw©dzi BS do pˆaszczyzny podstawy ostrosˆupa.
+-
+-
+-
+-
+500
+8*10^1/2
+41
+12
+Podstaw¥ ostrosˆupa ABCDW jest prostok¥t ABCD. Kraw©d« boczna DW jest wysokości¥ tego ostrosˆupa. Kraw©dzie boczne AW, BW i CW maj¥ nast©puj¥ce dˆugości: |AW|=6, |BW|=9, |CW|=7. Oblicz obj©tość tego ostrosˆupa [#IMG]
+-
+-
+-
+-
+367
+[ALFA]~31[.]
+42
+12
+Podstaw¥ ostrosˆupa ABCDS jest kwadrat ABCD. Wysokość SE ściany bocznej ADS jest jednocześnie wysokości¥ ostrosˆupa, a punkt E jest środkiem kraw©dzi AD (zobacz rysunek). Pole ściany ADS jest równe 12 cm^2, a obj©tość ostrosˆupa jest równa 48 cm3. Oblicz miar© k¥ta nachylenia kraw©dzi bocznej CS do pˆaszczyzny podstawy ostrosˆupa. Wynik zaokr¥glij do 1[.]
+-
+-
+-
+-
+197
+(64*209^1/2)/3
+43
+12
+Podstaw¥ ostrosˆupa ABCDE jest kwadrat ABCD. Punkt F jest środkiem kraw©dzi AD, odcinek EF jest wysokości¥ ostrosˆupa (patrz rysunek). Oblicz obj©tość ostrosˆupa, jeśli wiadomo, że |AE|=15, |BE|=17.
+-
+-
+-
+-
+1391
+a
+44
+12
+Jeżeli ostrosˆup ma 10 kraw©dzi, to liczba ścian bocznych jest równa
+5
+7
+8
+10
+1440
+243*3^1/2
+45
+12
+Ostrosˆup i graniastosˆup maj¥ równe pola podstaw i równe wysokości. Obj©tość ostrosˆupa jest równa 81*3^1/2. Obj©tość graniastosˆupa jest równa
+27
+27*3^1/2
+243
+243*3^1/2
